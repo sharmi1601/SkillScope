@@ -1,0 +1,233 @@
+{
+  "plan_summary": "This 12-week plan focuses on building a strong foundation in AWS and Databricks, allocating the majority of the time to these core skills. It strategically integrates polish items like Spark, ETL, Airflow, dbt, Snowflake, and Data Modeling into spare hours, ensuring a comprehensive learning experience within the given budget and deadline.",
+  "total_weeks": 12,
+  "total_hours": 119,
+  "weeks": [
+    {
+      "week_number": 1,
+      "focus": "AWS Fundamentals and Introduction to Databricks",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Certified Cloud Practitioner",
+          "url": "https://www.youtube.com/watch?v=SOTamWNgDKc",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "focus": "Deep Dive into AWS and Databricks Concepts",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Skill Builder (free tier)",
+          "url": "https://skillbuilder.aws/",
+          "hours": 7
+        },
+        {
+          "skill": "Databricks",
+          "title": "Databricks Academy \u2014 free courses",
+          "url": "https://www.databricks.com/learn/training",
+          "hours": 3
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "focus": "AWS Skill Builder and Databricks Quickstart",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Skill Builder (free tier)",
+          "url": "https://skillbuilder.aws/",
+          "hours": 5
+        },
+        {
+          "skill": "Databricks",
+          "title": "Databricks Quickstart tutorials",
+          "url": "https://docs.databricks.com/en/getting-started/index.html",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "focus": "AWS Documentation and Databricks Academy",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Documentation Home",
+          "url": "https://docs.aws.amazon.com/",
+          "hours": 5
+        },
+        {
+          "skill": "Databricks",
+          "title": "Databricks Academy \u2014 free courses",
+          "url": "https://www.databricks.com/learn/training",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "focus": "AWS Documentation and Databricks Documentation",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Documentation Home",
+          "url": "https://docs.aws.amazon.com/",
+          "hours": 5
+        },
+        {
+          "skill": "Databricks",
+          "title": "Databricks Documentation",
+          "url": "https://docs.databricks.com/",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "focus": "AWS Skill Builder and Spark Fundamentals",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Skill Builder (free tier)",
+          "url": "https://skillbuilder.aws/",
+          "hours": 5
+        },
+        {
+          "skill": "Spark",
+          "title": "Databricks Academy \u2014 free Apache Spark",
+          "url": "https://www.databricks.com/learn/training",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "focus": "AWS Documentation and Spark with PySpark",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Documentation Home",
+          "url": "https://docs.aws.amazon.com/",
+          "hours": 5
+        },
+        {
+          "skill": "Spark",
+          "title": "PySpark documentation",
+          "url": "https://spark.apache.org/docs/latest/api/python/",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "focus": "ETL Fundamentals with dbt and Airflow Quickstart",
+      "hours_planned": 9,
+      "activities": [
+        {
+          "skill": "ETL",
+          "title": "dbt fundamentals (free)",
+          "url": "https://learn.getdbt.com/courses/dbt-fundamentals",
+          "hours": 5
+        },
+        {
+          "skill": "ETL",
+          "title": "Airflow quickstart",
+          "url": "https://airflow.apache.org/docs/apache-airflow/stable/start.html",
+          "hours": 4
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "focus": "Airflow Training and dbt Fundamentals",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Airflow",
+          "title": "Astronomer Learn \u2014 free Airflow training",
+          "url": "https://www.astronomer.io/learn/",
+          "hours": 5
+        },
+        {
+          "skill": "dbt",
+          "title": "dbt Fundamentals (free)",
+          "url": "https://learn.getdbt.com/courses/dbt-fundamentals",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "focus": "Snowflake Training and Data Modeling",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Snowflake",
+          "title": "Snowflake Free Training",
+          "url": "https://learn.snowflake.com/",
+          "hours": 5
+        },
+        {
+          "skill": "Data Modeling",
+          "title": "dbt Learn \u2014 Analytics Engineering",
+          "url": "https://learn.getdbt.com",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "focus": "Snowflake Quickstarts and Kimball Group Techniques",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Snowflake",
+          "title": "Snowflake Quickstarts (hands-on guides)",
+          "url": "https://quickstarts.snowflake.com/",
+          "hours": 5
+        },
+        {
+          "skill": "Data Modeling",
+          "title": "Kimball Group techniques (classic dimensional modeling)",
+          "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "focus": "Consolidation and Review of AWS and Databricks",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AWS",
+          "title": "AWS Skill Builder (free tier)",
+          "url": "https://skillbuilder.aws/",
+          "hours": 5
+        },
+        {
+          "skill": "Databricks",
+          "title": "Databricks Documentation",
+          "url": "https://docs.databricks.com/",
+          "hours": 5
+        }
+      ]
+    }
+  ],
+  "_sanitization": {
+    "hallucinated_urls_swapped": 0,
+    "activities_removed": 0
+  }
+}

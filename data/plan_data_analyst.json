@@ -1,0 +1,233 @@
+{
+  "plan_summary": "Sharmi's 12-week study plan focuses on closing gaps in Tableau, A/B Testing, Hypothesis Testing, and Looker, while polishing adjacent skills like R, ETL, Spark, EDA, Causal Inference, and Airflow. The plan is designed to utilize the 10-hour weekly study budget efficiently, ensuring all skills are covered within the 12-week deadline.",
+  "total_weeks": 12,
+  "total_hours": 120,
+  "weeks": [
+    {
+      "week_number": 1,
+      "focus": "Tableau fundamentals",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Tableau",
+          "title": "Tableau Free Training Videos (official)",
+          "url": "https://www.tableau.com/learn/training",
+          "hours": 10
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "focus": "Tableau and A/B Testing introduction",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Tableau",
+          "title": "Andy Kriebel (VizWiz) YouTube",
+          "url": "https://www.youtube.com/@VizWizBI",
+          "hours": 5
+        },
+        {
+          "skill": "A/B Testing",
+          "title": "Udacity A/B Testing (free course)",
+          "url": "https://www.udacity.com/course/ab-testing--ud257",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "focus": "A/B Testing and Hypothesis Testing introduction",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "A/B Testing",
+          "title": "Ronny Kohavi's A/B testing course notes",
+          "url": "https://www.linkedin.com/in/ronnyk",
+          "hours": 5
+        },
+        {
+          "skill": "Hypothesis Testing",
+          "title": "StatQuest with Josh Starmer \u2014 YouTube channel",
+          "url": "https://www.youtube.com/@statquest",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "focus": "Hypothesis Testing and Looker introduction",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Hypothesis Testing",
+          "title": "Khan Academy Statistics & Probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "hours": 5
+        },
+        {
+          "skill": "Looker",
+          "title": "Looker Learn \u2014 official training",
+          "url": "https://learn.looker.com",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "focus": "Looker and Tableau",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Looker",
+          "title": "LookML tutorials on YouTube",
+          "url": "https://www.youtube.com/@lookerinc",
+          "hours": 5
+        },
+        {
+          "skill": "Tableau",
+          "title": "Tableau Public gallery and tutorials",
+          "url": "https://public.tableau.com/app/resources/learn",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "focus": "A/B Testing and Hypothesis Testing",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "A/B Testing",
+          "title": "Towards Data Science \u2014 A/B testing tag",
+          "url": "https://towardsdatascience.com/tagged/ab-testing",
+          "hours": 5
+        },
+        {
+          "skill": "Hypothesis Testing",
+          "title": "Seeing Theory \u2014 visual probability & stats",
+          "url": "https://seeing-theory.brown.edu",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "focus": "R introduction",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "R",
+          "title": "DataCamp \u2014 Introduction to R (free)",
+          "url": "https://www.datacamp.com/courses/free-introduction-to-r",
+          "hours": 4
+        },
+        {
+          "skill": "Looker",
+          "title": "Looker documentation",
+          "url": "https://cloud.google.com/looker/docs",
+          "hours": 6
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "focus": "ETL introduction and R",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "ETL",
+          "title": "dbt fundamentals (free)",
+          "url": "https://learn.getdbt.com/courses/dbt-fundamentals",
+          "hours": 5
+        },
+        {
+          "skill": "R",
+          "title": "swirl \u2014 Learn R in R",
+          "url": "https://swirlstats.com",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "focus": "Spark introduction and ETL",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Spark",
+          "title": "Databricks Academy \u2014 free Apache Spark",
+          "url": "https://www.databricks.com/learn/training",
+          "hours": 5
+        },
+        {
+          "skill": "ETL",
+          "title": "Airflow quickstart",
+          "url": "https://airflow.apache.org/docs/apache-airflow/stable/start.html",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "focus": "EDA introduction and Spark",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "EDA",
+          "title": "Kaggle \u2014 Data Visualization mini-course",
+          "url": "https://www.kaggle.com/learn/data-visualization",
+          "hours": 4
+        },
+        {
+          "skill": "Spark",
+          "title": "PySpark documentation",
+          "url": "https://spark.apache.org/docs/latest/api/python/",
+          "hours": 6
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "focus": "Causal Inference introduction and EDA",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Causal Inference",
+          "title": "Brady Neal \u2014 Intro to Causal Inference course",
+          "url": "https://www.bradyneal.com/causal-inference-course",
+          "hours": 5
+        },
+        {
+          "skill": "EDA",
+          "title": "Kaggle \u2014 Pandas mini-course",
+          "url": "https://www.kaggle.com/learn/pandas",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "focus": "Airflow introduction and review",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Airflow",
+          "title": "Astronomer Learn \u2014 free Airflow training",
+          "url": "https://www.astronomer.io/learn/",
+          "hours": 5
+        },
+        {
+          "skill": "Airflow",
+          "title": "Marc Lamberti \u2014 Airflow YouTube channel",
+          "url": "https://www.youtube.com/@MarcLamberti",
+          "hours": 5
+        }
+      ]
+    }
+  ],
+  "_sanitization": {
+    "hallucinated_urls_swapped": 0,
+    "activities_removed": 0
+  }
+}

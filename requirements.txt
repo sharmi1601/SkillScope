@@ -1,0 +1,35 @@
+# Core dependencies for the SkillScope offline pipeline
+# Install in a fresh virtualenv:
+#   python -m venv venv
+#   source venv/bin/activate   # Windows: venv\Scripts\activate
+#   pip install -r requirements.txt
+
+# LLM client (Groq - fast Llama 3.3 inference)
+groq==0.11.0
+# groq 0.11 passes `proxies=` to httpx, which httpx 0.28+ removed.
+# Pinning httpx to the 0.27 line keeps the two compatible.
+httpx>=0.27,<0.28
+
+# HTTP requests for Greenhouse/Lever public APIs
+requests==2.32.3
+
+# Load GROQ_API_KEY from .env
+python-dotenv==1.0.1
+
+# Retry logic with exponential backoff for rate limits
+tenacity==9.0.0
+
+# Progress bars (nice-to-have for long extractions)
+tqdm==4.66.5
+
+# Gemini SDK (primary LLM provider — cheap + huge quotas on paid tier)
+google-genai>=0.3.0
+
+# Resume parsing — extract text from PDF / DOCX
+pymupdf>=1.24.0
+python-docx>=1.1.0
+
+# FastAPI backend (src/api.py) for the hackathon frontend
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9

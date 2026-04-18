@@ -1,0 +1,24 @@
+{
+  "name": "Sharmi",
+  "target_role": "data_analyst",
+  "hours_per_week": 10,
+  "deadline_weeks": 12,
+  "learning_style": "video",
+  "skills": [
+    {"name": "Python", "confidence": "strong"},
+    {"name": "SQL", "confidence": "basic"},
+    {"name": "pandas", "confidence": "strong"},
+    {"name": "matplotlib", "confidence": "basic"},
+    {"name": "Git", "confidence": "strong"},
+    {"name": "Excel", "confidence": "strong"}
+  ],
+  "experiences": [
+    {"title": "Software Engineer", "company": "Tech co", "years": 2}
+  ],
+  "projects": [
+    {"name": "Personal portfolio analytics dashboard", "tech": ["Python", "pandas"]}
+  ],
+  "education": [
+    {"degree": "B.Tech", "field": "Computer Science"}
+  ]
+}

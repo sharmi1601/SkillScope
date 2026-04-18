@@ -1,0 +1,251 @@
+{
+  "plan_summary": "This 12-week plan focuses on Generative AI, AI Agents, and Evaluation, dedicating significant time to foundational courses and practical application. It also incorporates Data Pipelines and BigQuery to enhance data handling capabilities, ensuring a well-rounded skill set within the given budget and deadline.",
+  "total_weeks": 12,
+  "total_hours": 119,
+  "weeks": [
+    {
+      "week_number": 1,
+      "focus": "Generative AI fundamentals and introduction to AI Agents",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Generative AI",
+          "title": "Hugging Face NLP Course (Transformers + Generation)",
+          "url": "https://huggingface.co/learn/nlp-course",
+          "hours": 8
+        },
+        {
+          "skill": "AI Agents",
+          "title": "Anthropic \u2014 Building effective agents",
+          "url": "https://www.anthropic.com/research/building-effective-agents",
+          "hours": 2
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "focus": "Deep dive into Generative AI and AI Agents",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Generative AI",
+          "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+          "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+          "hours": 8
+        },
+        {
+          "skill": "AI Agents",
+          "title": "OpenAI \u2014 Agents SDK docs",
+          "url": "https://platform.openai.com/docs/guides/agents",
+          "hours": 2
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "focus": "Continuing Generative AI and starting Evaluation",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Generative AI",
+          "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+          "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+          "hours": 4
+        },
+        {
+          "skill": "Generative AI",
+          "title": "Andrej Karpathy \u2014 Intro to Large Language Models",
+          "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+          "hours": 1
+        },
+        {
+          "skill": "Evaluation",
+          "title": "Hamel Husain \u2014 A field guide to rapidly improving AI products",
+          "url": "https://hamel.dev/blog/posts/evals/",
+          "hours": 2
+        },
+        {
+          "skill": "Evaluation",
+          "title": "Eugene Yan \u2014 Evals 101 (blog)",
+          "url": "https://eugeneyan.com/writing/abstractive/",
+          "hours": 3
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "focus": "AI Agents and hands-on Evaluation",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AI Agents",
+          "title": "DeepLearning.AI \u2014 AI Agents in LangGraph",
+          "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+          "hours": 5
+        },
+        {
+          "skill": "AI Agents",
+          "title": "OpenAI \u2014 Agents SDK docs",
+          "url": "https://platform.openai.com/docs/guides/agents",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "focus": "Hands-on Evaluation and introduction to Data Pipelines",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Evaluation",
+          "title": "OpenAI Evals (hands-on framework)",
+          "url": "https://github.com/openai/evals",
+          "hours": 7
+        },
+        {
+          "skill": "Data Pipelines",
+          "title": "Airflow Official Tutorial",
+          "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+          "hours": 3
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "focus": "Continuing Data Pipelines and Generative AI",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Data Pipelines",
+          "title": "Airflow Official Tutorial",
+          "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+          "hours": 7
+        },
+        {
+          "skill": "Generative AI",
+          "title": "Hugging Face NLP Course (Transformers + Generation)",
+          "url": "https://huggingface.co/learn/nlp-course",
+          "hours": 3
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "focus": "Generative AI and BigQuery",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Generative AI",
+          "title": "Hugging Face NLP Course (Transformers + Generation)",
+          "url": "https://huggingface.co/learn/nlp-course",
+          "hours": 7
+        },
+        {
+          "skill": "BigQuery",
+          "title": "BigQuery Quickstarts",
+          "url": "https://cloud.google.com/bigquery/docs/quickstarts",
+          "hours": 3
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "focus": "BigQuery and AI Agents",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "BigQuery",
+          "title": "BigQuery SQL Reference",
+          "url": "https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax",
+          "hours": 5
+        },
+        {
+          "skill": "AI Agents",
+          "title": "DeepLearning.AI \u2014 AI Agents in LangGraph",
+          "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "focus": "Deepening Generative AI and Evaluation knowledge",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Generative AI",
+          "title": "Hugging Face NLP Course (Transformers + Generation)",
+          "url": "https://huggingface.co/learn/nlp-course",
+          "hours": 5
+        },
+        {
+          "skill": "Evaluation",
+          "title": "OpenAI Evals (hands-on framework)",
+          "url": "https://github.com/openai/evals",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "focus": "Consolidating AI Agents and Data Pipelines",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "AI Agents",
+          "title": "OpenAI \u2014 Agents SDK docs",
+          "url": "https://platform.openai.com/docs/guides/agents",
+          "hours": 5
+        },
+        {
+          "skill": "Data Pipelines",
+          "title": "Designing Data-Intensive Applications (Kleppmann) \u2014 companion site",
+          "url": "https://dataintensive.net",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "focus": "Advanced Data Pipelines and Generative AI review",
+      "hours_planned": 9,
+      "activities": [
+        {
+          "skill": "Data Pipelines",
+          "title": "Designing Data-Intensive Applications (Kleppmann) \u2014 companion site",
+          "url": "https://dataintensive.net",
+          "hours": 4
+        },
+        {
+          "skill": "Generative AI",
+          "title": "Hugging Face NLP Course (Transformers + Generation)",
+          "url": "https://huggingface.co/learn/nlp-course",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "focus": "Finalizing Generative AI and Evaluation",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Generative AI",
+          "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+          "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+          "hours": 5
+        },
+        {
+          "skill": "Evaluation",
+          "title": "OpenAI Evals (hands-on framework)",
+          "url": "https://github.com/openai/evals",
+          "hours": 5
+        }
+      ]
+    }
+  ],
+  "_sanitization": {
+    "hallucinated_urls_swapped": 0,
+    "activities_removed": 0
+  }
+}

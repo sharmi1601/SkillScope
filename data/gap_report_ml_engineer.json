@@ -1,0 +1,1629 @@
+{
+  "close_gaps": [
+    {
+      "skill": "Generative AI",
+      "total_score": 0.682,
+      "dimensions": {
+        "frequency": 1.0,
+        "trend": 0.5,
+        "role_criticality": 0.787,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "close_gap",
+      "market_frequency_pct": 70.0,
+      "market_criticality": 38.5,
+      "reasoning": "High market demand (70.0% of jobs) and fits your 120h budget (40h to learn)."
+    },
+    {
+      "skill": "AI Agents",
+      "total_score": 0.574,
+      "dimensions": {
+        "frequency": 0.857,
+        "trend": 0.5,
+        "role_criticality": 0.425,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "close_gap",
+      "market_frequency_pct": 60.0,
+      "market_criticality": 20.799999999999997,
+      "reasoning": "High market demand (60.0% of jobs) and fits your 120h budget (40h to learn)."
+    },
+    {
+      "skill": "Evaluation",
+      "total_score": 0.508,
+      "dimensions": {
+        "frequency": 0.679,
+        "trend": 0.5,
+        "role_criticality": 0.319,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "close_gap",
+      "market_frequency_pct": 47.5,
+      "market_criticality": 15.599999999999998,
+      "reasoning": "High market demand (47.5% of jobs) and fits your 120h budget (40h to learn)."
+    }
+  ],
+  "polish": [
+    {
+      "skill": "Data Pipelines",
+      "total_score": 0.594,
+      "dimensions": {
+        "frequency": 0.5,
+        "trend": 0.5,
+        "role_criticality": 0.219,
+        "recoverability": 0.8,
+        "proximity": 1.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [
+        "Airflow",
+        "Python"
+      ],
+      "hours_to_learn": 40,
+      "bucket": "polish",
+      "market_frequency_pct": 35.0,
+      "market_criticality": 10.7,
+      "reasoning": "You already have Airflow, Python \u2014 Data Pipelines is a natural extension."
+    },
+    {
+      "skill": "BigQuery",
+      "total_score": 0.393,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.027,
+        "recoverability": 0.9,
+        "proximity": 0.5,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [
+        "SQL"
+      ],
+      "hours_to_learn": 20,
+      "bucket": "polish",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 1.3,
+      "reasoning": "You already have SQL \u2014 BigQuery is a natural extension."
+    }
+  ],
+  "long_term": [
+    {
+      "skill": "Recommender Systems",
+      "total_score": 0.42,
+      "dimensions": {
+        "frequency": 0.393,
+        "trend": 0.5,
+        "role_criticality": 0.233,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 27.5,
+      "market_criticality": 11.399999999999999,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Prompt Engineering",
+      "total_score": 0.417,
+      "dimensions": {
+        "frequency": 0.393,
+        "trend": 0.5,
+        "role_criticality": 0.221,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 27.5,
+      "market_criticality": 10.799999999999999,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Observability",
+      "total_score": 0.404,
+      "dimensions": {
+        "frequency": 0.393,
+        "trend": 0.5,
+        "role_criticality": 0.153,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 27.5,
+      "market_criticality": 7.5,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "RAG",
+      "total_score": 0.397,
+      "dimensions": {
+        "frequency": 0.357,
+        "trend": 0.5,
+        "role_criticality": 0.166,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 25.0,
+      "market_criticality": 8.1,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Fine-Tuning",
+      "total_score": 0.386,
+      "dimensions": {
+        "frequency": 0.321,
+        "trend": 0.5,
+        "role_criticality": 0.151,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 22.5,
+      "market_criticality": 7.3999999999999995,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Model Deployment",
+      "total_score": 0.36,
+      "dimensions": {
+        "frequency": 0.25,
+        "trend": 0.5,
+        "role_criticality": 0.112,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 17.5,
+      "market_criticality": 5.5,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "LangChain",
+      "total_score": 0.353,
+      "dimensions": {
+        "frequency": 0.214,
+        "trend": 0.5,
+        "role_criticality": 0.123,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 15.0,
+      "market_criticality": 6.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Ranking",
+      "total_score": 0.34,
+      "dimensions": {
+        "frequency": 0.179,
+        "trend": 0.5,
+        "role_criticality": 0.102,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 12.5,
+      "market_criticality": 5.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Azure",
+      "total_score": 0.338,
+      "dimensions": {
+        "frequency": 0.286,
+        "trend": 0.5,
+        "role_criticality": 0.157,
+        "recoverability": 0.6,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 80,
+      "bucket": "long_term",
+      "market_frequency_pct": 20.0,
+      "market_criticality": 7.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (80h needed)."
+    },
+    {
+      "skill": "GCP",
+      "total_score": 0.338,
+      "dimensions": {
+        "frequency": 0.286,
+        "trend": 0.5,
+        "role_criticality": 0.157,
+        "recoverability": 0.6,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 80,
+      "bucket": "long_term",
+      "market_frequency_pct": 20.0,
+      "market_criticality": 7.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (80h needed)."
+    },
+    {
+      "skill": "Reinforcement Learning",
+      "total_score": 0.337,
+      "dimensions": {
+        "frequency": 0.179,
+        "trend": 0.5,
+        "role_criticality": 0.088,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 12.5,
+      "market_criticality": 4.3,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Model Training",
+      "total_score": 0.336,
+      "dimensions": {
+        "frequency": 0.179,
+        "trend": 0.5,
+        "role_criticality": 0.084,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 12.5,
+      "market_criticality": 4.1,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Personalization",
+      "total_score": 0.327,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.082,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 4.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Search",
+      "total_score": 0.327,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.082,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 4.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Distributed Systems",
+      "total_score": 0.327,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.082,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 4.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Ray",
+      "total_score": 0.326,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.076,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 3.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Hugging Face",
+      "total_score": 0.324,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.061,
+        "recoverability": 0.85,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 30,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 3.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (30h needed)."
+    },
+    {
+      "skill": "Retrieval",
+      "total_score": 0.323,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.061,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 3.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Cursor",
+      "total_score": 0.318,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.039,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 1.9,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "MLOps",
+      "total_score": 0.316,
+      "dimensions": {
+        "frequency": 0.179,
+        "trend": 0.5,
+        "role_criticality": 0.084,
+        "recoverability": 0.7,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 60,
+      "bucket": "long_term",
+      "market_frequency_pct": 12.5,
+      "market_criticality": 4.1,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (60h needed)."
+    },
+    {
+      "skill": "Codex",
+      "total_score": 0.316,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.025,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 1.2,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Delta Lake",
+      "total_score": 0.316,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.025,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 1.2,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Foundation Models",
+      "total_score": 0.314,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.063,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 3.1,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Graph Representation Learning",
+      "total_score": 0.314,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.061,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 3.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Vector Databases",
+      "total_score": 0.314,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.061,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 3.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Ranking Systems",
+      "total_score": 0.313,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.055,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 2.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Scalable Realtime Systems",
+      "total_score": 0.305,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.018,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 0.9,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Databricks",
+      "total_score": 0.304,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.057,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.8,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "API Design",
+      "total_score": 0.304,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.055,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Context Engineering",
+      "total_score": 0.304,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.055,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Operations Research",
+      "total_score": 0.303,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.051,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.5,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Large Scale Machine Learning Systems",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Anomaly Detection",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Text2SQL",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "DSPy",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Big Data Technologies",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Keras",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "User Modeling",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "AI Coding Tools",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "LlamaIndex",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "LangGraph",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Statistics",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Performance Profiling",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Containerization",
+      "total_score": 0.301,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Hadoop",
+      "total_score": 0.3,
+      "dimensions": {
+        "frequency": 0.179,
+        "trend": 0.5,
+        "role_criticality": 0.102,
+        "recoverability": 0.6,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 80,
+      "bucket": "long_term",
+      "market_frequency_pct": 12.5,
+      "market_criticality": 5.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (80h needed)."
+    },
+    {
+      "skill": "Feature Engineering",
+      "total_score": 0.3,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.035,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 1.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Combinatorial Optimization",
+      "total_score": 0.3,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.035,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 1.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Marketplace Optimization",
+      "total_score": 0.298,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.027,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 1.3,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "LoRA",
+      "total_score": 0.297,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.02,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 1.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Databricks Intelligence Platform",
+      "total_score": 0.295,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.012,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 0.6,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "LLM-powered productivity tools",
+      "total_score": 0.295,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.012,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 0.6,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Infrastructure-As-Code",
+      "total_score": 0.295,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.012,
+        "recoverability": 0.8,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 40,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 0.6,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (40h needed)."
+    },
+    {
+      "skill": "Go",
+      "total_score": 0.29,
+      "dimensions": {
+        "frequency": 0.143,
+        "trend": 0.5,
+        "role_criticality": 0.096,
+        "recoverability": 0.6,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 80,
+      "bucket": "long_term",
+      "market_frequency_pct": 10.0,
+      "market_criticality": 4.7,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (80h needed)."
+    },
+    {
+      "skill": "Scala",
+      "total_score": 0.274,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.061,
+        "recoverability": 0.6,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 80,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 3.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (80h needed)."
+    },
+    {
+      "skill": "Computer Vision",
+      "total_score": 0.174,
+      "dimensions": {
+        "frequency": 0.107,
+        "trend": 0.5,
+        "role_criticality": 0.061,
+        "recoverability": 0.1,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 180,
+      "bucket": "long_term",
+      "market_frequency_pct": 7.5,
+      "market_criticality": 3.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (180h needed)."
+    },
+    {
+      "skill": "C++",
+      "total_score": 0.141,
+      "dimensions": {
+        "frequency": 0.071,
+        "trend": 0.5,
+        "role_criticality": 0.041,
+        "recoverability": 0.0,
+        "proximity": 0.0,
+        "resource_availability": 0.8
+      },
+      "user_has": false,
+      "user_has_adjacent": [],
+      "hours_to_learn": 200,
+      "bucket": "long_term",
+      "market_frequency_pct": 5.0,
+      "market_criticality": 2.0,
+      "reasoning": "Worth it but doesn't fit your 120h budget after higher-priority skills (200h needed)."
+    }
+  ],
+  "total_hours_close": 120,
+  "feasible_in_deadline": true,
+  "recommendations": {
+    "Generative AI": [
+      {
+        "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+        "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+        "platform": "course",
+        "style": "video",
+        "freshness_score": 0.95,
+        "engagement_score": 0.95,
+        "duration_hours": 16,
+        "rank": 0.902
+      },
+      {
+        "title": "Andrej Karpathy \u2014 Intro to Large Language Models",
+        "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+        "platform": "youtube",
+        "style": "video",
+        "freshness_score": 0.9,
+        "engagement_score": 0.95,
+        "duration_hours": 1,
+        "rank": 0.855
+      },
+      {
+        "title": "Andrej Karpathy \u2014 Let's build GPT from scratch",
+        "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+        "platform": "youtube",
+        "style": "video",
+        "freshness_score": 0.9,
+        "engagement_score": 0.95,
+        "duration_hours": 2,
+        "rank": 0.855
+      }
+    ],
+    "AI Agents": [
+      {
+        "title": "DeepLearning.AI \u2014 AI Agents in LangGraph",
+        "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+        "platform": "course",
+        "style": "video",
+        "freshness_score": 1.0,
+        "engagement_score": 0.9,
+        "duration_hours": 5,
+        "rank": 0.9
+      },
+      {
+        "title": "LangChain Academy \u2014 Introduction to LangGraph",
+        "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+        "platform": "course",
+        "style": "video",
+        "freshness_score": 0.95,
+        "engagement_score": 0.85,
+        "duration_hours": 10,
+        "rank": 0.807
+      },
+      {
+        "title": "Anthropic \u2014 Building effective agents",
+        "url": "https://www.anthropic.com/research/building-effective-agents",
+        "platform": "article",
+        "style": "reading",
+        "freshness_score": 1.0,
+        "engagement_score": 0.9,
+        "duration_hours": 2,
+        "rank": 0.36
+      }
+    ],
+    "Evaluation": [
+      {
+        "title": "DeepLearning.AI \u2014 Evaluating and Debugging Generative AI",
+        "url": "https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/",
+        "platform": "course",
+        "style": "video",
+        "freshness_score": 0.95,
+        "engagement_score": 0.85,
+        "duration_hours": 3,
+        "rank": 0.807
+      },
+      {
+        "title": "OpenAI Evals (hands-on framework)",
+        "url": "https://github.com/openai/evals",
+        "platform": "interactive",
+        "style": "interactive",
+        "freshness_score": 0.9,
+        "engagement_score": 0.85,
+        "duration_hours": 10,
+        "rank": 0.535
+      },
+      {
+        "title": "Hamel Husain \u2014 A field guide to rapidly improving AI products",
+        "url": "https://hamel.dev/blog/posts/evals/",
+        "platform": "article",
+        "style": "reading",
+        "freshness_score": 1.0,
+        "engagement_score": 0.95,
+        "duration_hours": 2,
+        "rank": 0.38
+      }
+    ],
+    "Data Pipelines": [
+      {
+        "title": "Dagster University (free)",
+        "url": "https://courses.dagster.io/",
+        "platform": "course",
+        "style": "interactive",
+        "freshness_score": 1.0,
+        "engagement_score": 0.85,
+        "duration_hours": 10,
+        "rank": 0.595
+      },
+      {
+        "title": "Airflow Official Tutorial",
+        "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+        "platform": "docs",
+        "style": "reading",
+        "freshness_score": 0.95,
+        "engagement_score": 0.9,
+        "duration_hours": 10,
+        "rank": 0.342
+      },
+      {
+        "title": "Designing Data-Intensive Applications (Kleppmann) \u2014 companion site",
+        "url": "https://dataintensive.net",
+        "platform": "book",
+        "style": "book",
+        "freshness_score": 0.9,
+        "engagement_score": 0.95,
+        "duration_hours": 20,
+        "rank": 0.257
+      }
+    ],
+    "BigQuery": [
+      {
+        "title": "freeCodeCamp \u2014 BigQuery Full Course",
+        "url": "https://www.youtube.com/watch?v=eyBK9nj-7AA",
+        "platform": "youtube",
+        "freshness_score": 0.8,
+        "engagement_score": 0.85,
+        "duration_hours": 2,
+        "style": "video",
+        "rank": 0.68
+      },
+      {
+        "title": "BigQuery Quickstarts",
+        "url": "https://cloud.google.com/bigquery/docs/quickstarts",
+        "platform": "docs",
+        "freshness_score": 0.95,
+        "engagement_score": 0.85,
+        "duration_hours": 10,
+        "style": "interactive",
+        "rank": 0.565
+      },
+      {
+        "title": "BigQuery SQL Reference",
+        "url": "https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax",
+        "platform": "docs",
+        "freshness_score": 0.95,
+        "engagement_score": 0.8,
+        "duration_hours": 10,
+        "style": "reading",
+        "rank": 0.304
+      }
+    ]
+  },
+  "plan": {
+    "plan_summary": "This 12-week plan focuses on building a strong foundation in Generative AI, AI Agents, and Evaluation, allocating the majority of the 10-hour weekly budget to these core skills. It also incorporates Data Pipelines and BigQuery learning into spare hours to complement existing adjacent skills.",
+    "total_weeks": 12,
+    "total_hours": 120,
+    "weeks": [
+      {
+        "week_number": 1,
+        "focus": "Generative AI fundamentals and introduction to AI Agents",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+            "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+            "hours": 6
+          },
+          {
+            "skill": "AI Agents",
+            "title": "DeepLearning.AI \u2014 AI Agents in LangGraph",
+            "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+            "hours": 4
+          }
+        ]
+      },
+      {
+        "week_number": 2,
+        "focus": "Deep dive into Generative AI and AI Agents",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+            "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+            "hours": 6
+          },
+          {
+            "skill": "AI Agents",
+            "title": "LangChain Academy \u2014 Introduction to LangGraph",
+            "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+            "hours": 4
+          }
+        ]
+      },
+      {
+        "week_number": 3,
+        "focus": "Continuing Generative AI and starting Evaluation",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+            "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+            "hours": 4
+          },
+          {
+            "skill": "Evaluation",
+            "title": "DeepLearning.AI \u2014 Evaluating and Debugging Generative AI",
+            "url": "https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/",
+            "hours": 3
+          },
+          {
+            "skill": "AI Agents",
+            "title": "LangChain Academy \u2014 Introduction to LangGraph",
+            "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+            "hours": 3
+          }
+        ]
+      },
+      {
+        "week_number": 4,
+        "focus": "Generative AI practicals and AI Agents",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "Andrej Karpathy \u2014 Intro to Large Language Models",
+            "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+            "hours": 1
+          },
+          {
+            "skill": "Generative AI",
+            "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+            "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+            "hours": 3
+          },
+          {
+            "skill": "AI Agents",
+            "title": "LangChain Academy \u2014 Introduction to LangGraph",
+            "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+            "hours": 6
+          }
+        ]
+      },
+      {
+        "week_number": 5,
+        "focus": "Building and Evaluating AI Agents",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "AI Agents",
+            "title": "Anthropic \u2014 Building effective agents",
+            "url": "https://www.anthropic.com/research/building-effective-agents",
+            "hours": 2
+          },
+          {
+            "skill": "AI Agents",
+            "title": "LangChain Academy \u2014 Introduction to LangGraph",
+            "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+            "hours": 3
+          },
+          {
+            "skill": "Evaluation",
+            "title": "DeepLearning.AI \u2014 Evaluating and Debugging Generative AI",
+            "url": "https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/",
+            "hours": 5
+          }
+        ]
+      },
+      {
+        "week_number": 6,
+        "focus": "Generative AI practicals and Evaluation framework",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "Andrej Karpathy \u2014 Let's build GPT from scratch",
+            "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+            "hours": 2
+          },
+          {
+            "skill": "Evaluation",
+            "title": "OpenAI Evals (hands-on framework)",
+            "url": "https://github.com/openai/evals",
+            "hours": 8
+          }
+        ]
+      },
+      {
+        "week_number": 7,
+        "focus": "Deepening Evaluation skills and introducing Data Pipelines",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Evaluation",
+            "title": "OpenAI Evals (hands-on framework)",
+            "url": "https://github.com/openai/evals",
+            "hours": 5
+          },
+          {
+            "skill": "Data Pipelines",
+            "title": "Dagster University (free)",
+            "url": "https://courses.dagster.io/",
+            "hours": 5
+          }
+        ]
+      },
+      {
+        "week_number": 8,
+        "focus": "Advanced Evaluation and Data Pipelines",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Evaluation",
+            "title": "Hamel Husain \u2014 A field guide to rapidly improving AI products",
+            "url": "https://hamel.dev/blog/posts/evals/",
+            "hours": 2
+          },
+          {
+            "skill": "Evaluation",
+            "title": "OpenAI Evals (hands-on framework)",
+            "url": "https://github.com/openai/evals",
+            "hours": 3
+          },
+          {
+            "skill": "Data Pipelines",
+            "title": "Dagster University (free)",
+            "url": "https://courses.dagster.io/",
+            "hours": 5
+          }
+        ]
+      },
+      {
+        "week_number": 9,
+        "focus": "Data Pipelines and BigQuery introduction",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Data Pipelines",
+            "title": "Dagster University (free)",
+            "url": "https://courses.dagster.io/",
+            "hours": 5
+          },
+          {
+            "skill": "BigQuery",
+            "title": "freeCodeCamp \u2014 BigQuery Full Course",
+            "url": "https://www.youtube.com/watch?v=eyBK9nj-7AA",
+            "hours": 2
+          },
+          {
+            "skill": "BigQuery",
+            "title": "BigQuery Quickstarts",
+            "url": "https://cloud.google.com/bigquery/docs/quickstarts",
+            "hours": 3
+          }
+        ]
+      },
+      {
+        "week_number": 10,
+        "focus": "Data Pipelines and BigQuery practice",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Data Pipelines",
+            "title": "Airflow Official Tutorial",
+            "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+            "hours": 5
+          },
+          {
+            "skill": "BigQuery",
+            "title": "BigQuery Quickstarts",
+            "url": "https://cloud.google.com/bigquery/docs/quickstarts",
+            "hours": 5
+          }
+        ]
+      },
+      {
+        "week_number": 11,
+        "focus": "Consolidating Generative AI, AI Agents, and Evaluation",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+            "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+            "hours": 3
+          },
+          {
+            "skill": "AI Agents",
+            "title": "DeepLearning.AI \u2014 AI Agents in LangGraph",
+            "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+            "hours": 3
+          },
+          {
+            "skill": "Evaluation",
+            "title": "DeepLearning.AI \u2014 Evaluating and Debugging Generative AI",
+            "url": "https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/",
+            "hours": 4
+          }
+        ]
+      },
+      {
+        "week_number": 12,
+        "focus": "Final review and practice across all core skills",
+        "hours_planned": 10,
+        "activities": [
+          {
+            "skill": "Generative AI",
+            "title": "Andrej Karpathy \u2014 Let's build GPT from scratch",
+            "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+            "hours": 1
+          },
+          {
+            "skill": "AI Agents",
+            "title": "Anthropic \u2014 Building effective agents",
+            "url": "https://www.anthropic.com/research/building-effective-agents",
+            "hours": 1
+          },
+          {
+            "skill": "Evaluation",
+            "title": "Hamel Husain \u2014 A field guide to rapidly improving AI products",
+            "url": "https://hamel.dev/blog/posts/evals/",
+            "hours": 1
+          },
+          {
+            "skill": "Data Pipelines",
+            "title": "Dagster University (free)",
+            "url": "https://courses.dagster.io/",
+            "hours": 3
+          },
+          {
+            "skill": "BigQuery",
+            "title": "freeCodeCamp \u2014 BigQuery Full Course",
+            "url": "https://www.youtube.com/watch?v=eyBK9nj-7AA",
+            "hours": 4
+          }
+        ]
+      }
+    ],
+    "_sanitization": {
+      "hallucinated_urls_swapped": 0,
+      "activities_removed": 0
+    }
+  }
+}

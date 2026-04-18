@@ -1,0 +1,295 @@
+{
+  "name": "sharmi",
+  "target_role": "ml_engineer",
+  "hours_per_week": 10,
+  "deadline_weeks": 12,
+  "learning_style": "video",
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": "strong"
+    },
+    {
+      "name": "PyTorch",
+      "confidence": "strong"
+    },
+    {
+      "name": "Scikit-learn",
+      "confidence": "strong"
+    },
+    {
+      "name": "TensorFlow",
+      "confidence": "strong"
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "confidence": "strong"
+    },
+    {
+      "name": "XGBoost",
+      "confidence": "strong"
+    },
+    {
+      "name": "SQL",
+      "confidence": "strong"
+    },
+    {
+      "name": "Apache Spark",
+      "confidence": "strong"
+    },
+    {
+      "name": "Kafka",
+      "confidence": "strong"
+    },
+    {
+      "name": "Docker",
+      "confidence": "strong"
+    },
+    {
+      "name": "Kubernetes",
+      "confidence": "strong"
+    },
+    {
+      "name": "AWS",
+      "confidence": "strong"
+    },
+    {
+      "name": "SageMaker",
+      "confidence": "strong"
+    },
+    {
+      "name": "FastAPI",
+      "confidence": "strong"
+    },
+    {
+      "name": "REST API",
+      "confidence": "strong"
+    },
+    {
+      "name": "Natural Language Processing",
+      "confidence": "strong"
+    },
+    {
+      "name": "Topic Modeling",
+      "confidence": "strong"
+    },
+    {
+      "name": "LDA",
+      "confidence": "strong"
+    },
+    {
+      "name": "BERTopic",
+      "confidence": "strong"
+    },
+    {
+      "name": "Transformer Models",
+      "confidence": "strong"
+    },
+    {
+      "name": "Sentiment Analysis",
+      "confidence": "strong"
+    },
+    {
+      "name": "Text Classification",
+      "confidence": "strong"
+    },
+    {
+      "name": "A/B Testing",
+      "confidence": "strong"
+    },
+    {
+      "name": "ETL",
+      "confidence": "strong"
+    },
+    {
+      "name": "Data Wrangling",
+      "confidence": "strong"
+    },
+    {
+      "name": "Machine Learning",
+      "confidence": "strong"
+    },
+    {
+      "name": "Deep Learning",
+      "confidence": "strong"
+    },
+    {
+      "name": "Object Detection",
+      "confidence": "strong"
+    },
+    {
+      "name": "Contrastive Learning",
+      "confidence": "strong"
+    },
+    {
+      "name": "Diffusion Models",
+      "confidence": "strong"
+    },
+    {
+      "name": "Java",
+      "confidence": "basic"
+    },
+    {
+      "name": "R",
+      "confidence": "basic"
+    },
+    {
+      "name": "LightGBM",
+      "confidence": "basic"
+    },
+    {
+      "name": "Random Forest",
+      "confidence": "basic"
+    },
+    {
+      "name": "Tokenization",
+      "confidence": "basic"
+    },
+    {
+      "name": "Semantic Analysis",
+      "confidence": "basic"
+    },
+    {
+      "name": "NER",
+      "confidence": "basic"
+    },
+    {
+      "name": "User Satisfaction Modeling",
+      "confidence": "basic"
+    },
+    {
+      "name": "Ground Truth Label Curation",
+      "confidence": "basic"
+    },
+    {
+      "name": "Annotation Quality Metrics",
+      "confidence": "basic"
+    },
+    {
+      "name": "Survey Analysis",
+      "confidence": "basic"
+    },
+    {
+      "name": "Behavioral Signal Extraction",
+      "confidence": "basic"
+    },
+    {
+      "name": "NumPy",
+      "confidence": "basic"
+    },
+    {
+      "name": "Large-Scale Data Processing",
+      "confidence": "basic"
+    },
+    {
+      "name": "MLflow",
+      "confidence": "basic"
+    },
+    {
+      "name": "CI/CD",
+      "confidence": "basic"
+    },
+    {
+      "name": "Microservice Deployment",
+      "confidence": "basic"
+    },
+    {
+      "name": "MongoDB",
+      "confidence": "basic"
+    },
+    {
+      "name": "Tableau",
+      "confidence": "basic"
+    },
+    {
+      "name": "Power BI",
+      "confidence": "basic"
+    },
+    {
+      "name": "Matplotlib",
+      "confidence": "basic"
+    },
+    {
+      "name": "Seaborn",
+      "confidence": "basic"
+    },
+    {
+      "name": "Apache Kafka",
+      "confidence": "strong"
+    },
+    {
+      "name": "Pandas",
+      "confidence": "strong"
+    },
+    {
+      "name": "AWS S3",
+      "confidence": "strong"
+    },
+    {
+      "name": "AWS EC2",
+      "confidence": "strong"
+    },
+    {
+      "name": "Airflow",
+      "confidence": "strong"
+    },
+    {
+      "name": "FAISS",
+      "confidence": "strong"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Data Scientist",
+      "company": "STAIRS, Clark University",
+      "years": 1.0
+    },
+    {
+      "title": "Course Teaching Assistant",
+      "company": "Clark University",
+      "years": 0.0
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "Zoho Corporation",
+      "years": 2.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Infosys",
+      "years": 1.25
+    }
+  ],
+  "projects": [
+    {
+      "name": "Few-Shot Object Detection with Synthetic Hard Negatives",
+      "tech": [
+        "Object Detection",
+        "Diffusion Models",
+        "Contrastive Learning"
+      ]
+    },
+    {
+      "name": "Quantum Machine Learning",
+      "tech": [
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Recommendation System Engine",
+      "tech": [
+        "FAISS",
+        "FastAPI",
+        "React"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S.",
+      "field": "Data Analytics"
+    }
+  ],
+  "_source_excerpt": "SHARMENDRA DESIBOYINA \nCalifornia | +1 (508) 454-5796 | sharmendra560@gmail.com | LinkedIn \nSUMMARY \nAI/ML Engineer with 3+ years of experience building scalable ML systems, NLP pipelines, and user behavior analytics at Zoho and \nInfosys. M.S. in Data Analytics candidate at Clark University with 4 published papers in Quantum AI. Currently leading a few-shot \nobject detection research team and building NLP pipelines analyzing 50K+ student survey responses to drive university-level decisions. \nSki"
+}

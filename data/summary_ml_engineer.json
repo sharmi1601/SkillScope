@@ -1,0 +1,3644 @@
+{
+  "role": "ml_engineer",
+  "level": null,
+  "sample_size": 40,
+  "companies_in_sample": [
+    "affirm",
+    "airbnb",
+    "anthropic",
+    "databricks",
+    "datadog",
+    "elastic",
+    "instacart",
+    "okta",
+    "opendoor",
+    "pinterest",
+    "reddit",
+    "robinhood",
+    "samsara",
+    "scaleai",
+    "stripe",
+    "twilio"
+  ],
+  "companies_scraped": [
+    "airbnb",
+    "stripe",
+    "figma",
+    "lyft",
+    "instacart",
+    "doordash",
+    "dropbox",
+    "pinterest",
+    "reddit",
+    "twitch",
+    "robinhood",
+    "coinbase",
+    "duolingo",
+    "opendoor",
+    "squarespace",
+    "faire",
+    "databricks",
+    "snowflake",
+    "datadog",
+    "cloudflare",
+    "mongodb",
+    "hashicorp",
+    "elastic",
+    "confluent",
+    "gitlab",
+    "retool",
+    "postman",
+    "vercel",
+    "linear",
+    "netlify",
+    "affirm",
+    "brex",
+    "ramp",
+    "plaid",
+    "mercury",
+    "wise",
+    "chime",
+    "marqeta",
+    "gusto",
+    "asana",
+    "notion",
+    "canva",
+    "airtable",
+    "miro",
+    "anthropic",
+    "scaleai",
+    "huggingface",
+    "cohere",
+    "twilio",
+    "okta",
+    "segment",
+    "samsara",
+    "rippling"
+  ],
+  "top_skills": [
+    {
+      "skill": "Generative AI",
+      "frequency": 28,
+      "pct_of_jobs": 70.0,
+      "criticality_score": 38.5,
+      "sections": {
+        "nice_to_have": 14,
+        "title": 5,
+        "responsibilities": 14,
+        "requirements": 17
+      }
+    },
+    {
+      "skill": "Machine Learning",
+      "frequency": 27,
+      "pct_of_jobs": 67.5,
+      "criticality_score": 48.9,
+      "sections": {
+        "responsibilities": 13,
+        "nice_to_have": 6,
+        "requirements": 11,
+        "title": 18
+      }
+    },
+    {
+      "skill": "Python",
+      "frequency": 22,
+      "pct_of_jobs": 55.0,
+      "criticality_score": 23.0,
+      "sections": {
+        "requirements": 22,
+        "nice_to_have": 1,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Spark",
+      "frequency": 16,
+      "pct_of_jobs": 40.0,
+      "criticality_score": 12.5,
+      "sections": {
+        "requirements": 9,
+        "nice_to_have": 7,
+        "responsibilities": 2
+      }
+    },
+    {
+      "skill": "AWS",
+      "frequency": 12,
+      "pct_of_jobs": 30.0,
+      "criticality_score": 10.3,
+      "sections": {
+        "requirements": 9,
+        "nice_to_have": 2,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Deep Learning",
+      "frequency": 9,
+      "pct_of_jobs": 22.5,
+      "criticality_score": 8.2,
+      "sections": {
+        "responsibilities": 7,
+        "requirements": 3,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "PyTorch",
+      "frequency": 8,
+      "pct_of_jobs": 20.0,
+      "criticality_score": 8.0,
+      "sections": {
+        "requirements": 8
+      }
+    },
+    {
+      "skill": "Azure",
+      "frequency": 8,
+      "pct_of_jobs": 20.0,
+      "criticality_score": 7.7,
+      "sections": {
+        "requirements": 7,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "GCP",
+      "frequency": 8,
+      "pct_of_jobs": 20.0,
+      "criticality_score": 7.7,
+      "sections": {
+        "requirements": 7,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Prompt Engineering",
+      "frequency": 7,
+      "pct_of_jobs": 17.5,
+      "criticality_score": 7.1,
+      "sections": {
+        "requirements": 5,
+        "responsibilities": 3
+      }
+    },
+    {
+      "skill": "Natural Language Processing",
+      "frequency": 6,
+      "pct_of_jobs": 15.0,
+      "criticality_score": 5.3,
+      "sections": {
+        "requirements": 5,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Kubernetes",
+      "frequency": 6,
+      "pct_of_jobs": 15.0,
+      "criticality_score": 4.2,
+      "sections": {
+        "requirements": 3,
+        "nice_to_have": 4
+      }
+    },
+    {
+      "skill": "Recommender Systems",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.3,
+      "sections": {
+        "requirements": 5,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Ranking",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.0,
+      "sections": {
+        "requirements": 5
+      }
+    },
+    {
+      "skill": "Reinforcement Learning",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 4.3,
+      "sections": {
+        "requirements": 4,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Hadoop",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.0,
+      "sections": {
+        "requirements": 5
+      }
+    },
+    {
+      "skill": "Java",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.7,
+      "sections": {
+        "requirements": 5,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "TensorFlow",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.0,
+      "sections": {
+        "requirements": 5
+      }
+    },
+    {
+      "skill": "Model Training",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 4.1,
+      "sections": {
+        "requirements": 2,
+        "responsibilities": 3
+      }
+    },
+    {
+      "skill": "MLflow",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 2.2,
+      "sections": {
+        "nice_to_have": 4,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "LangChain",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.0,
+      "sections": {
+        "requirements": 5
+      }
+    },
+    {
+      "skill": "SQL",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 5.0,
+      "sections": {
+        "requirements": 5
+      }
+    },
+    {
+      "skill": "Evaluation Frameworks",
+      "frequency": 5,
+      "pct_of_jobs": 12.5,
+      "criticality_score": 4.7,
+      "sections": {
+        "requirements": 4,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Personalization",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 4.0,
+      "sections": {
+        "requirements": 4
+      }
+    },
+    {
+      "skill": "Search",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 4.0,
+      "sections": {
+        "requirements": 4
+      }
+    },
+    {
+      "skill": "Stream Data Processing",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 1.9,
+      "sections": {
+        "requirements": 1,
+        "nice_to_have": 3
+      }
+    },
+    {
+      "skill": "Cursor",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 1.9,
+      "sections": {
+        "nice_to_have": 3,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Codex",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 1.2,
+      "sections": {
+        "nice_to_have": 4
+      }
+    },
+    {
+      "skill": "A/B Testing",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 3.1,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 3
+      }
+    },
+    {
+      "skill": "Airflow",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 2.6,
+      "sections": {
+        "requirements": 2,
+        "nice_to_have": 2
+      }
+    },
+    {
+      "skill": "Kafka",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 2.6,
+      "sections": {
+        "requirements": 2,
+        "nice_to_have": 2
+      }
+    },
+    {
+      "skill": "Go",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 4.7,
+      "sections": {
+        "requirements": 4,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Distributed Systems",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 4.0,
+      "sections": {
+        "requirements": 4
+      }
+    },
+    {
+      "skill": "Delta Lake",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 1.2,
+      "sections": {
+        "nice_to_have": 4
+      }
+    },
+    {
+      "skill": "RAG",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 3.3,
+      "sections": {
+        "requirements": 3,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "pandas",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 4.0,
+      "sections": {
+        "requirements": 4
+      }
+    },
+    {
+      "skill": "MLOps",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 3.1,
+      "sections": {
+        "nice_to_have": 1,
+        "responsibilities": 4
+      }
+    },
+    {
+      "skill": "Agentic AI",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "nice_to_have": 2,
+        "responsibilities": 2
+      }
+    },
+    {
+      "skill": "Recommendation Systems",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 4.4,
+      "sections": {
+        "requirements": 3,
+        "responsibilities": 2
+      }
+    },
+    {
+      "skill": "Docker",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 2.2,
+      "sections": {
+        "nice_to_have": 4,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Ray",
+      "frequency": 4,
+      "pct_of_jobs": 10.0,
+      "criticality_score": 3.7,
+      "sections": {
+        "responsibilities": 2,
+        "requirements": 2,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Graph Representation Learning",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Data Processing Pipelines",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Scala",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Computer Vision",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Model Evaluation",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.7,
+      "sections": {
+        "requirements": 2,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Model Serving",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.4,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 2
+      }
+    },
+    {
+      "skill": "Fine-Tuning",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Hugging Face",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "scikit-learn",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Model Monitoring",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.1,
+      "sections": {
+        "responsibilities": 3
+      }
+    },
+    {
+      "skill": "Foundation Models",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.1,
+      "sections": {
+        "responsibilities": 3,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Scalable Realtime Systems",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 0.9,
+      "sections": {
+        "nice_to_have": 3
+      }
+    },
+    {
+      "skill": "XGBoost",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Agent Architectures",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.7,
+      "sections": {
+        "requirements": 3,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "LLM fine-tuning",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.1,
+      "sections": {
+        "responsibilities": 3
+      }
+    },
+    {
+      "skill": "LLM evaluation",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.1,
+      "sections": {
+        "responsibilities": 3
+      }
+    },
+    {
+      "skill": "Ranking Systems",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.7,
+      "sections": {
+        "responsibilities": 2,
+        "requirements": 1,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "API",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 2.4,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 2
+      }
+    },
+    {
+      "skill": "Prompting",
+      "frequency": 3,
+      "pct_of_jobs": 7.5,
+      "criticality_score": 3.0,
+      "sections": {
+        "requirements": 3
+      }
+    },
+    {
+      "skill": "Large Scale Machine Learning Systems",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "C++",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Feature Engineering",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Marketplace Optimization",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.3,
+      "sections": {
+        "requirements": 1,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Anomaly Detection",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "API Design",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.7,
+      "sections": {
+        "requirements": 2,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Data Pipelines",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Agentic Systems",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "nice_to_have": 1,
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Multi-Agent Systems",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Text2SQL",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "DSPy",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Databricks Intelligence Platform",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 0.6,
+      "sections": {
+        "nice_to_have": 2
+      }
+    },
+    {
+      "skill": "Model Deployment",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "LLM-powered productivity tools",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 0.6,
+      "sections": {
+        "nice_to_have": 2
+      }
+    },
+    {
+      "skill": "Big Data Technologies",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Operations Research",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.5,
+      "sections": {
+        "title": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Combinatorial Optimization",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Keras",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "RAG/Search",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.4,
+      "sections": {
+        "responsibilities": 2
+      }
+    },
+    {
+      "skill": "User Modeling",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Ads Ranking",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.3,
+      "sections": {
+        "requirements": 1,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Retrieval",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.3,
+      "sections": {
+        "requirements": 1,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "AI Coding Tools",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Databricks",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.8,
+      "sections": {
+        "title": 1,
+        "nice_to_have": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Multi-Agent Orchestration",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Vector Databases",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "LlamaIndex",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "BigQuery",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.3,
+      "sections": {
+        "requirements": 1,
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "LangGraph",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Statistics",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Monitoring",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.4,
+      "sections": {
+        "responsibilities": 2,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Agentic Workflows",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Performance Profiling",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "Containerization",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "CI/CD",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 0.6,
+      "sections": {
+        "nice_to_have": 2
+      }
+    },
+    {
+      "skill": "Infrastructure-As-Code",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 0.6,
+      "sections": {
+        "nice_to_have": 2
+      }
+    },
+    {
+      "skill": "Evals",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.7,
+      "sections": {
+        "requirements": 1,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Agent Frameworks",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 1.3,
+      "sections": {
+        "nice_to_have": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Context Engineering",
+      "frequency": 2,
+      "pct_of_jobs": 5.0,
+      "criticality_score": 2.7,
+      "sections": {
+        "requirements": 2,
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Feature Selection",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Model Selection",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Neural Networks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Optimization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Search and Recommendation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Gradient Boosted Trees",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Automation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "ML Platform",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Preparation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "GPU Orchestration",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Transformer Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.5,
+      "sections": {
+        "title": 1
+      }
+    },
+    {
+      "skill": "Data Ingestion",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Model Validation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Model Versioning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Canary Releases",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Data Drift",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Model Decay",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "ML Lifecycle",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Feature Stores",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Experiment Tracking",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Model Registries",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Responsible AI",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 2.5,
+      "sections": {
+        "title": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Red Teaming",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "ML Fairness",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Transformer-Based Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "2-Tower Architectures",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "VLMs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Fairness Interventions",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Publications at top ML conferences",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Machine Learning Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Mathematical Programming",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Order Batching",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Shopper Routing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Service Availability Prediction",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Real-time Assignment",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Genomics",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Neuroscience",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Drug Discovery",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "LLM optimization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Recommendation Engines",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Intent Detection",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Data Manipulation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Personalization Algorithms",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Statistical Analysis",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Visualization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Targeting",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Marketplace Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "ML Conferences",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Computational Advertising",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Agent Tools",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Productionization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Developer Tools",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "AI agent frameworks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Orchestration Platforms",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "RAG pipelines",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Vector Search",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Microservices",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Applied AI",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "RAG architectures",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Tool-Calling Agents",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Guardrails",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "AI evaluation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "AI observability",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Drift Monitoring",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "fine-tuning LLMs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "AI guardrail systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Langchain",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "OpenAI",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Engineering",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Growth",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.5,
+      "sections": {
+        "title": 1
+      }
+    },
+    {
+      "skill": "Experimentation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Activation Funnels",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Notifications",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Lifecycle Marketing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "SEO",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Paid Acquisition",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "JavaScript",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "AI Orchestration Frameworks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Agentic Frameworks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Processing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Integration",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Data Analytics",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Salesforce Data Cloud",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Snowflake",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Conversational AI",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Solution Engineering",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Technical Lead",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Salesforce",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Elastic Agent Builder",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Model Development",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Model Fine-Tuning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Agent Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Prompt Management",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Human-In-The-Loop",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Elastic Stack",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Agent Builder",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Workflows",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Retrieval Augmented Generation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Elasticsearch Relevance Engine",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Jina AI",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "LangSmith",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Microsoft Copilot Studio",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Salesforce Agentforce",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "ServiceNow AI Agents",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Model Context Protocol",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "TypeScript",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Terraform",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "LLM providers",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Scheduling Algorithms",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Optimization Algorithms",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Computer Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Mathematical Modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Testing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Code Reviews",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Deployment",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Reporting Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Reasoning Loops",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Tool Invocation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Memory (AI Agents)",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Orchestration of Autonomous AI Agents",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Model Distillation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Direct Preference Optimization (DPO)",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Proximal Policy Optimization (PPO)",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Reward Modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "ML Infrastructure",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.5,
+      "sections": {
+        "title": 1
+      }
+    },
+    {
+      "skill": "CV models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "LLM-based reporting",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Edge ML",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Traces",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Metrics",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Logs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Evaluation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Microservices Performance",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Observability",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Service Design",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Alerting",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "On-call Rotation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.7,
+      "sections": {
+        "responsibilities": 1,
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Agent Features",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Tooling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Safety Guardrails",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Machine Learning Lifecycle",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Experiment Design",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Confidence Intervals",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Heuristics",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Offline Evals",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Online Evals",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Golden Sets",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Automatic Regressions",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Tracing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Latency Breakdowns",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Concurrency",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Resiliency Patterns",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Production Operations",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Distributed Tracing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "OpenTelemetry",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Datadog APM",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Profilers",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Logs Pipelines",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Metrics Pipelines",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Planning Frameworks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Tool Use Orchestration",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Indexing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "SLO Practices",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "SLA Practices",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Incident Response",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Cloud ML workflows",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Edge Computing",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Agent Development",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Retrieval Frameworks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "LLM testing automation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Feedback-Based Learning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Guardrail",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "LightGBM",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "CatBoost",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Dask",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Kubeflow",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Claude Code",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Fraud Prediction Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Feature Pipelines",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Training Datasets",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Batch Decision Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Real-Time Decision Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Retraining Workflows",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Backtesting Workflows",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Embeddings",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "RAG systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "CrewAI",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "OpenAI SDK",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "MCP",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "A2A",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Web Applications",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Backend APIs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "SaaS",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Growth Modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.5,
+      "sections": {
+        "title": 1
+      }
+    },
+    {
+      "skill": "Incentive Optimization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Causal Modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Scalable Platform Architecture",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "System Integrations",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Architecture",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "AI evaluation tools",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Observability Tools",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Random Forests",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Transformers",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 2.0,
+      "sections": {
+        "requirements": 2
+      }
+    },
+    {
+      "skill": "CNNs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "GNNs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Search Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Advertising Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "redis",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "LLM alignment",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Graph Neural Networks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "LLM-powered applications",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Architecture Reviews",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Code Contributions",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "AI Engineering Techniques",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Architecture Diagrams",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Technical Workshops",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Hackathons",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Developer-Focused Events",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "pCTR modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Selection Bias",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Position Bias",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Optimizer'S Curse",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Model Calibration",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Multi-Task Learning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Sequence Modeling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Retrieval Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Transformer Index for Generative Recommenders",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Semantic ID",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Domain Language Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Search Retrieval Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Exploration Retrieval Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Generative Retrieval Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "LLM integrations",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Relevance Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Bidding Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Incrementality Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Delta",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "dbt",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Conversion Prediction Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Mixed Negative Sampling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Inverse Propensity Weighting",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Counterfactual Risk Minimization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Platt Scaling",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Isotonic Regression",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Multi-Domain Multi-Task",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Mixture-of-Experts",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Transformer Layers",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "LoRA adaptors",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "TIGER",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Autoregressive User Behavior Prediction",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Recommendation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Prediction Problems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Deep & Wide",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "DeepFM",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "DCN",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Multi-Task Learning Formulations",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Causal Inference",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Counterfactual Reasoning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Training Data Bias Mitigation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Propensity-Based Correction Methods",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "JAX",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Auction-Based Systems",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Bid Optimization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "ROAS feedback loops",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Marketplace Dynamics",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Autoregressive Sequence Models",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Generative Retrieval",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Transformer-Based Ranking Architectures",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Semantic IDs",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Product Embeddings",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Transfer Learning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Domain Adaptation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "LoRA",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Adapter-Based Fine-Tuning",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "LLM-driven recommendation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "Prompt-Based Personalization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "AI-assisted model development",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "AutoML",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.3,
+      "sections": {
+        "nice_to_have": 1
+      }
+    },
+    {
+      "skill": "ML Ops",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Presto",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "DynamoDB",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 1.0,
+      "sections": {
+        "requirements": 1
+      }
+    },
+    {
+      "skill": "Cost Optimization",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Benchmarks",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Agent Skills",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Documentation",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Tutorials",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    },
+    {
+      "skill": "Sample Code",
+      "frequency": 1,
+      "pct_of_jobs": 2.5,
+      "criticality_score": 0.7,
+      "sections": {
+        "responsibilities": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "plan_summary": "This 12-week plan prioritizes Generative AI, A/B Testing, and Experimentation, allocating significant time to build foundational knowledge. It strategically integrates Machine Learning, Causal Inference, R, Spark, ETL, and PyTorch in spare hours, leveraging adjacent skills to enhance overall competency within the 10-hour weekly budget.",
+  "total_weeks": 12,
+  "total_hours": 100,
+  "weeks": [
+    {
+      "week_number": 1,
+      "focus": "Foundational A/B Testing and Introduction to Generative AI",
+      "hours_planned": 8,
+      "activities": [
+        {
+          "skill": "A/B Testing",
+          "title": "Udacity A/B Testing (free course)",
+          "url": "https://www.udacity.com/course/ab-testing--ud257",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "focus": "Deep Dive into A/B Testing and Experimentation",
+      "hours_planned": 5,
+      "activities": [
+        {
+          "skill": "A/B Testing",
+          "title": "Ronny Kohavi's A/B testing course notes",
+          "url": "https://www.linkedin.com/in/ronnyk",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "focus": "Continuing Experimentation and Introduction to Machine Learning",
+      "hours_planned": 5,
+      "activities": [
+        {
+          "skill": "Machine Learning",
+          "title": "Andrew Ng \u2014 Machine Learning Specialization (Coursera)",
+          "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "focus": "Generative AI and Machine Learning",
+      "hours_planned": 5,
+      "activities": [
+        {
+          "skill": "Machine Learning",
+          "title": "Andrew Ng \u2014 Machine Learning Specialization (Coursera)",
+          "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "focus": "Machine Learning and Causal Inference",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Machine Learning",
+          "title": "Andrew Ng \u2014 Machine Learning Specialization (Coursera)",
+          "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+          "hours": 5
+        },
+        {
+          "skill": "Causal Inference",
+          "title": "Brady Neal \u2014 Intro to Causal Inference course",
+          "url": "https://www.bradyneal.com/causal-inference-course",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "focus": "Causal Inference and R Fundamentals",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Causal Inference",
+          "title": "Causal Inference for the Brave and True (free book)",
+          "url": "https://matheusfacure.github.io/python-causality-handbook/",
+          "hours": 6
+        },
+        {
+          "skill": "R",
+          "title": "DataCamp \u2014 Introduction to R (free)",
+          "url": "https://www.datacamp.com/courses/free-introduction-to-r",
+          "hours": 4
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "focus": "R, Spark, and ETL Introduction",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "R",
+          "title": "swirl \u2014 Learn R in R",
+          "url": "https://swirlstats.com",
+          "hours": 4
+        },
+        {
+          "skill": "Spark",
+          "title": "Databricks Academy \u2014 free Apache Spark",
+          "url": "https://www.databricks.com/learn/training",
+          "hours": 6
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "focus": "Spark, ETL, and PyTorch Fundamentals",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Spark",
+          "title": "PySpark documentation",
+          "url": "https://spark.apache.org/docs/latest/api/python/",
+          "hours": 4
+        },
+        {
+          "skill": "ETL",
+          "title": "dbt fundamentals (free)",
+          "url": "https://learn.getdbt.com/courses/dbt-fundamentals",
+          "hours": 5
+        },
+        {
+          "skill": "PyTorch",
+          "title": "Daniel Bourke \u2014 Learn PyTorch for Deep Learning",
+          "url": "https://www.learnpytorch.io/",
+          "hours": 1
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "focus": "PyTorch and Advanced Generative AI",
+      "hours_planned": 9,
+      "activities": [
+        {
+          "skill": "PyTorch",
+          "title": "Daniel Bourke \u2014 Learn PyTorch for Deep Learning",
+          "url": "https://www.learnpytorch.io/",
+          "hours": 9
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "focus": "Deepening PyTorch and Machine Learning",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "PyTorch",
+          "title": "PyTorch Official Tutorials",
+          "url": "https://pytorch.org/tutorials/",
+          "hours": 5
+        },
+        {
+          "skill": "Machine Learning",
+          "title": "fast.ai \u2014 Practical Deep Learning",
+          "url": "https://course.fast.ai",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "focus": "Consolidating Machine Learning and Experimentation",
+      "hours_planned": 10,
+      "activities": [
+        {
+          "skill": "Machine Learning",
+          "title": "fast.ai \u2014 Practical Deep Learning",
+          "url": "https://course.fast.ai",
+          "hours": 5
+        },
+        {
+          "skill": "Experimentation",
+          "title": "Towards Data Science \u2014 A/B testing tag",
+          "url": "https://towardsdatascience.com/tagged/ab-testing",
+          "hours": 5
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "focus": "Finalizing Generative AI, ETL, and Causal Inference",
+      "hours_planned": 8,
+      "activities": [
+        {
+          "skill": "ETL",
+          "title": "Airflow quickstart",
+          "url": "https://airflow.apache.org/docs/apache-airflow/stable/start.html",
+          "hours": 4
+        },
+        {
+          "skill": "Causal Inference",
+          "title": "Causal Inference for the Brave and True (free book)",
+          "url": "https://matheusfacure.github.io/python-causality-handbook/",
+          "hours": 4
+        }
+      ]
+    }
+  ],
+  "_sanitization": {
+    "hallucinated_urls_swapped": 0,
+    "activities_removed": 6
+  }
+}

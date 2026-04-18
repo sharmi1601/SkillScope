@@ -1,0 +1,1627 @@
+{
+  "_comment": "Hand-curated learning resources for the Recommender. EVERY url must be real \u2014 no hallucinated video IDs. Prefer channel/platform/documentation roots over deep links so URLs remain stable. Scores are on [0,1]. freshness_score decays with age (1.0 = recent, 0.5 = ~3y old). engagement_score is log-normalized views/claps.",
+  "SQL": [
+    {
+      "title": "Mode SQL Tutorial",
+      "url": "https://mode.com/sql-tutorial",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 15,
+      "style": "reading"
+    },
+    {
+      "title": "SQLZoo interactive lessons",
+      "url": "https://sqlzoo.net",
+      "platform": "interactive",
+      "freshness_score": 0.8,
+      "engagement_score": 0.8,
+      "duration_hours": 10,
+      "style": "interactive"
+    },
+    {
+      "title": "freeCodeCamp SQL full course",
+      "url": "https://www.youtube.com/@freecodecamp",
+      "platform": "youtube",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 4,
+      "style": "video"
+    },
+    {
+      "title": "Khan Academy \u2014 Intro to SQL",
+      "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+      "platform": "course",
+      "freshness_score": 0.7,
+      "engagement_score": 0.8,
+      "duration_hours": 8,
+      "style": "video"
+    }
+  ],
+  "Python": [
+    {
+      "title": "Python official tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 10,
+      "style": "reading"
+    },
+    {
+      "title": "freeCodeCamp Python for Everybody",
+      "url": "https://www.youtube.com/@freecodecamp",
+      "platform": "youtube",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 14,
+      "style": "video"
+    },
+    {
+      "title": "Real Python tutorials",
+      "url": "https://realpython.com",
+      "platform": "article",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 30,
+      "style": "reading"
+    }
+  ],
+  "Tableau": [
+    {
+      "title": "Tableau Free Training Videos (official)",
+      "url": "https://www.tableau.com/learn/training",
+      "platform": "video",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 20,
+      "style": "video"
+    },
+    {
+      "title": "Tableau Public gallery and tutorials",
+      "url": "https://public.tableau.com/app/resources/learn",
+      "platform": "interactive",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 10,
+      "style": "interactive"
+    },
+    {
+      "title": "Andy Kriebel (VizWiz) YouTube",
+      "url": "https://www.youtube.com/@VizWizBI",
+      "platform": "youtube",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 15,
+      "style": "video"
+    },
+    {
+      "title": "Tableau Tip Tuesday archive",
+      "url": "https://www.vizwiz.com",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.75,
+      "duration_hours": 8,
+      "style": "reading"
+    }
+  ],
+  "A/B Testing": [
+    {
+      "title": "Ronny Kohavi's A/B testing course notes",
+      "url": "https://www.linkedin.com/in/ronnyk",
+      "platform": "article",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 5,
+      "style": "reading"
+    },
+    {
+      "title": "Udacity A/B Testing (free course)",
+      "url": "https://www.udacity.com/course/ab-testing--ud257",
+      "platform": "course",
+      "freshness_score": 0.8,
+      "engagement_score": 0.9,
+      "duration_hours": 8,
+      "style": "video"
+    },
+    {
+      "title": "Towards Data Science \u2014 A/B testing tag",
+      "url": "https://towardsdatascience.com/tagged/ab-testing",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 6,
+      "style": "reading"
+    },
+    {
+      "title": "Data Skeptic podcast \u2014 experimentation episodes",
+      "url": "https://dataskeptic.com",
+      "platform": "podcast",
+      "freshness_score": 0.85,
+      "engagement_score": 0.7,
+      "duration_hours": 4,
+      "style": "audio"
+    }
+  ],
+  "Hypothesis Testing": [
+    {
+      "title": "StatQuest with Josh Starmer \u2014 YouTube channel",
+      "url": "https://www.youtube.com/@statquest",
+      "platform": "youtube",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 6,
+      "style": "video"
+    },
+    {
+      "title": "Khan Academy Statistics & Probability",
+      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "platform": "course",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 10,
+      "style": "video"
+    },
+    {
+      "title": "OpenIntro Statistics (free textbook)",
+      "url": "https://www.openintro.org/book/os/",
+      "platform": "book",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 8,
+      "style": "reading"
+    },
+    {
+      "title": "Seeing Theory \u2014 visual probability & stats",
+      "url": "https://seeing-theory.brown.edu",
+      "platform": "interactive",
+      "freshness_score": 0.85,
+      "engagement_score": 0.85,
+      "duration_hours": 4,
+      "style": "interactive"
+    }
+  ],
+  "Looker": [
+    {
+      "title": "Looker Learn \u2014 official training",
+      "url": "https://learn.looker.com",
+      "platform": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 15,
+      "style": "video"
+    },
+    {
+      "title": "Looker documentation",
+      "url": "https://cloud.google.com/looker/docs",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.8,
+      "duration_hours": 10,
+      "style": "reading"
+    },
+    {
+      "title": "LookML tutorials on YouTube",
+      "url": "https://www.youtube.com/@lookerinc",
+      "platform": "youtube",
+      "freshness_score": 0.85,
+      "engagement_score": 0.75,
+      "duration_hours": 6,
+      "style": "video"
+    }
+  ],
+  "Presto": [
+    {
+      "title": "Presto documentation",
+      "url": "https://prestodb.io/docs/current/",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.75,
+      "duration_hours": 8,
+      "style": "reading"
+    },
+    {
+      "title": "Trino (Presto fork) getting started",
+      "url": "https://trino.io/docs/current/",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.8,
+      "duration_hours": 8,
+      "style": "reading"
+    },
+    {
+      "title": "Starburst Academy free courses",
+      "url": "https://www.starburst.io/academy/",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.7,
+      "duration_hours": 10,
+      "style": "video"
+    }
+  ],
+  "R": [
+    {
+      "title": "R for Data Science (free book by Hadley Wickham)",
+      "url": "https://r4ds.hadley.nz",
+      "platform": "book",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 30,
+      "style": "reading"
+    },
+    {
+      "title": "swirl \u2014 Learn R in R",
+      "url": "https://swirlstats.com",
+      "platform": "interactive",
+      "freshness_score": 0.8,
+      "engagement_score": 0.8,
+      "duration_hours": 12,
+      "style": "interactive"
+    },
+    {
+      "title": "DataCamp \u2014 Introduction to R (free)",
+      "url": "https://www.datacamp.com/courses/free-introduction-to-r",
+      "platform": "course",
+      "freshness_score": 0.85,
+      "engagement_score": 0.85,
+      "duration_hours": 4,
+      "style": "video"
+    }
+  ],
+  "ETL": [
+    {
+      "title": "dbt fundamentals (free)",
+      "url": "https://learn.getdbt.com/courses/dbt-fundamentals",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 5,
+      "style": "video"
+    },
+    {
+      "title": "Towards Data Science \u2014 ETL tag",
+      "url": "https://towardsdatascience.com/tagged/etl",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.8,
+      "duration_hours": 6,
+      "style": "reading"
+    },
+    {
+      "title": "Airflow quickstart",
+      "url": "https://airflow.apache.org/docs/apache-airflow/stable/start.html",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 4,
+      "style": "reading"
+    }
+  ],
+  "Spark": [
+    {
+      "title": "Databricks Academy \u2014 free Apache Spark",
+      "url": "https://www.databricks.com/learn/training",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 20,
+      "style": "video"
+    },
+    {
+      "title": "Spark: The Definitive Guide (excerpts)",
+      "url": "https://pages.databricks.com/definitive-guide-spark.html",
+      "platform": "book",
+      "freshness_score": 0.7,
+      "engagement_score": 0.85,
+      "duration_hours": 15,
+      "style": "reading"
+    },
+    {
+      "title": "PySpark documentation",
+      "url": "https://spark.apache.org/docs/latest/api/python/",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.8,
+      "duration_hours": 8,
+      "style": "reading"
+    }
+  ],
+  "EDA": [
+    {
+      "title": "Kaggle \u2014 Data Visualization mini-course",
+      "url": "https://www.kaggle.com/learn/data-visualization",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 4,
+      "style": "interactive"
+    },
+    {
+      "title": "Kaggle \u2014 Pandas mini-course",
+      "url": "https://www.kaggle.com/learn/pandas",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 4,
+      "style": "interactive"
+    },
+    {
+      "title": "pandas getting started guide",
+      "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 6,
+      "style": "reading"
+    }
+  ],
+  "Causal Inference": [
+    {
+      "title": "Causal Inference for the Brave and True (free book)",
+      "url": "https://matheusfacure.github.io/python-causality-handbook/",
+      "platform": "book",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 30,
+      "style": "reading"
+    },
+    {
+      "title": "Causal Inference: The Mixtape (free online)",
+      "url": "https://mixtape.scunning.com",
+      "platform": "book",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "reading"
+    },
+    {
+      "title": "Brady Neal \u2014 Intro to Causal Inference course",
+      "url": "https://www.bradyneal.com/causal-inference-course",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 20,
+      "style": "video"
+    }
+  ],
+  "Airflow": [
+    {
+      "title": "Airflow official tutorial",
+      "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 6,
+      "style": "reading"
+    },
+    {
+      "title": "Astronomer Learn \u2014 free Airflow training",
+      "url": "https://www.astronomer.io/learn/",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 12,
+      "style": "video"
+    },
+    {
+      "title": "Marc Lamberti \u2014 Airflow YouTube channel",
+      "url": "https://www.youtube.com/@MarcLamberti",
+      "platform": "youtube",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 10,
+      "style": "video"
+    }
+  ],
+  "Data Visualization": [
+    {
+      "title": "Storytelling with Data blog (Cole Nussbaumer Knaflic)",
+      "url": "https://www.storytellingwithdata.com/blog",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 8,
+      "style": "reading"
+    },
+    {
+      "title": "Data Visualization Society resources",
+      "url": "https://www.datavisualizationsociety.org/resources",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.8,
+      "duration_hours": 6,
+      "style": "reading"
+    },
+    {
+      "title": "Kaggle Data Visualization mini-course",
+      "url": "https://www.kaggle.com/learn/data-visualization",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 4,
+      "style": "interactive"
+    }
+  ],
+  "Data Modeling": [
+    {
+      "title": "dbt Learn \u2014 Analytics Engineering",
+      "url": "https://learn.getdbt.com",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 12,
+      "style": "video"
+    },
+    {
+      "title": "Kimball Group techniques (classic dimensional modeling)",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/",
+      "platform": "article",
+      "freshness_score": 0.6,
+      "engagement_score": 0.8,
+      "duration_hours": 8,
+      "style": "reading"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "title": "Andrew Ng \u2014 Machine Learning Specialization (Coursera)",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 60,
+      "style": "video"
+    },
+    {
+      "title": "fast.ai \u2014 Practical Deep Learning",
+      "url": "https://course.fast.ai",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "video"
+    },
+    {
+      "title": "scikit-learn user guide",
+      "url": "https://scikit-learn.org/stable/user_guide.html",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 20,
+      "style": "reading"
+    }
+  ],
+  "dbt": [
+    {
+      "title": "dbt Fundamentals (free)",
+      "url": "https://learn.getdbt.com/courses/dbt-fundamentals",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 5,
+      "style": "video"
+    },
+    {
+      "title": "dbt official docs",
+      "url": "https://docs.getdbt.com",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 8,
+      "style": "reading"
+    },
+    {
+      "title": "dbt Discourse (community Q&A)",
+      "url": "https://discourse.getdbt.com",
+      "platform": "article",
+      "freshness_score": 0.9,
+      "engagement_score": 0.8,
+      "duration_hours": 4,
+      "style": "reading"
+    }
+  ],
+  "Statistical Modeling": [
+    {
+      "title": "An Introduction to Statistical Learning (free PDF)",
+      "url": "https://www.statlearning.com",
+      "platform": "book",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 40,
+      "style": "reading"
+    },
+    {
+      "title": "StatQuest with Josh Starmer",
+      "url": "https://www.youtube.com/@statquest",
+      "platform": "youtube",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 15,
+      "style": "video"
+    },
+    {
+      "title": "statsmodels documentation & examples",
+      "url": "https://www.statsmodels.org/stable/examples/index.html",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.8,
+      "duration_hours": 10,
+      "style": "reading"
+    }
+  ],
+  "Natural Language Processing": [
+    {
+      "title": "Hugging Face NLP course (free)",
+      "url": "https://huggingface.co/learn/nlp-course",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 30,
+      "style": "video"
+    },
+    {
+      "title": "Stanford CS224n \u2014 Natural Language Processing",
+      "url": "https://web.stanford.edu/class/cs224n/",
+      "platform": "course",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 60,
+      "style": "video"
+    },
+    {
+      "title": "spaCy tutorials",
+      "url": "https://spacy.io/usage/spacy-101",
+      "platform": "docs",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 6,
+      "style": "reading"
+    }
+  ],
+  "Kafka": [
+    {
+      "title": "Apache Kafka \u2014 Official Documentation",
+      "url": "https://kafka.apache.org/documentation/",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.8,
+      "duration_hours": 20,
+      "style": "reading"
+    },
+    {
+      "title": "Confluent Developer \u2014 Kafka tutorials",
+      "url": "https://developer.confluent.io/courses/",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 30,
+      "style": "interactive"
+    },
+    {
+      "title": "Stephane Maarek \u2014 Apache Kafka (YouTube)",
+      "url": "https://www.youtube.com/@StephaneMaarek",
+      "platform": "youtube",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 15,
+      "style": "video"
+    }
+  ],
+  "Snowflake": [
+    {
+      "title": "Snowflake Quickstarts (hands-on guides)",
+      "url": "https://quickstarts.snowflake.com/",
+      "platform": "interactive",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 15,
+      "style": "interactive"
+    },
+    {
+      "title": "Snowflake Documentation",
+      "url": "https://docs.snowflake.com/",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 20,
+      "style": "reading"
+    },
+    {
+      "title": "Snowflake Free Training",
+      "url": "https://learn.snowflake.com/",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 20,
+      "style": "video"
+    }
+  ],
+  "Docker": [
+    {
+      "title": "Docker \u2014 Get Started (official)",
+      "url": "https://docs.docker.com/get-started/",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 15,
+      "style": "interactive"
+    },
+    {
+      "title": "Play with Docker \u2014 browser sandbox",
+      "url": "https://labs.play-with-docker.com/",
+      "platform": "interactive",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 5,
+      "style": "interactive"
+    },
+    {
+      "title": "TechWorld with Nana \u2014 Docker Tutorial (YouTube)",
+      "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "platform": "youtube",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 3,
+      "style": "video"
+    }
+  ],
+  "Kubernetes": [
+    {
+      "title": "Kubernetes \u2014 Official Tutorials",
+      "url": "https://kubernetes.io/docs/tutorials/",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 30,
+      "style": "interactive"
+    },
+    {
+      "title": "Fireship \u2014 Kubernetes in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=PziYflu8cB8",
+      "platform": "youtube",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 1,
+      "style": "video"
+    },
+    {
+      "title": "Kelsey Hightower \u2014 Kubernetes the Hard Way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "reading"
+    }
+  ],
+  "PyTorch": [
+    {
+      "title": "PyTorch Official Tutorials",
+      "url": "https://pytorch.org/tutorials/",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "interactive"
+    },
+    {
+      "title": "Daniel Bourke \u2014 Learn PyTorch for Deep Learning",
+      "url": "https://www.learnpytorch.io/",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 50,
+      "style": "interactive"
+    },
+    {
+      "title": "Deep Learning with PyTorch (free book)",
+      "url": "https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf",
+      "platform": "book",
+      "freshness_score": 0.85,
+      "engagement_score": 0.85,
+      "duration_hours": 60,
+      "style": "reading"
+    }
+  ],
+  "TensorFlow": [
+    {
+      "title": "TensorFlow Official Tutorials",
+      "url": "https://www.tensorflow.org/tutorials",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 40,
+      "style": "interactive"
+    },
+    {
+      "title": "DeepLearning.AI \u2014 TensorFlow Developer (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 60,
+      "style": "video"
+    },
+    {
+      "title": "freeCodeCamp \u2014 TensorFlow 2.0 Complete Course",
+      "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+      "platform": "youtube",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 7,
+      "style": "video"
+    }
+  ],
+  "Hugging Face": [
+    {
+      "title": "Hugging Face \u2014 NLP Course (free)",
+      "url": "https://huggingface.co/learn/nlp-course",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 30,
+      "style": "interactive"
+    },
+    {
+      "title": "Hugging Face \u2014 Deep RL Course",
+      "url": "https://huggingface.co/learn/deep-rl-course",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 30,
+      "style": "interactive"
+    },
+    {
+      "title": "Transformers Library Documentation",
+      "url": "https://huggingface.co/docs/transformers",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 15,
+      "style": "reading"
+    }
+  ],
+  "AWS": [
+    {
+      "title": "AWS Skill Builder (free tier)",
+      "url": "https://skillbuilder.aws/",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "interactive"
+    },
+    {
+      "title": "freeCodeCamp \u2014 AWS Certified Cloud Practitioner",
+      "url": "https://www.youtube.com/watch?v=SOTamWNgDKc",
+      "platform": "youtube",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 15,
+      "style": "video"
+    },
+    {
+      "title": "AWS Documentation Home",
+      "url": "https://docs.aws.amazon.com/",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 40,
+      "style": "reading"
+    }
+  ],
+  "GCP": [
+    {
+      "title": "Google Cloud Skills Boost (Qwiklabs)",
+      "url": "https://www.cloudskillsboost.google/",
+      "platform": "interactive",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "interactive"
+    },
+    {
+      "title": "freeCodeCamp \u2014 Google Cloud Platform Full Course",
+      "url": "https://www.youtube.com/watch?v=jpno8FSqpc8",
+      "platform": "youtube",
+      "freshness_score": 0.85,
+      "engagement_score": 0.85,
+      "duration_hours": 8,
+      "style": "video"
+    },
+    {
+      "title": "Google Cloud Documentation",
+      "url": "https://cloud.google.com/docs",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 40,
+      "style": "reading"
+    }
+  ],
+  "Terraform": [
+    {
+      "title": "HashiCorp Learn \u2014 Terraform tutorials",
+      "url": "https://developer.hashicorp.com/terraform/tutorials",
+      "platform": "interactive",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 20,
+      "style": "interactive"
+    },
+    {
+      "title": "Terraform \u2014 Introduction (official)",
+      "url": "https://developer.hashicorp.com/terraform/intro",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 10,
+      "style": "reading"
+    },
+    {
+      "title": "TechWorld with Nana \u2014 Terraform Course",
+      "url": "https://www.youtube.com/watch?v=l5k1ai_GBDE",
+      "platform": "youtube",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 2,
+      "style": "video"
+    }
+  ],
+  "BigQuery": [
+    {
+      "title": "BigQuery Quickstarts",
+      "url": "https://cloud.google.com/bigquery/docs/quickstarts",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 10,
+      "style": "interactive"
+    },
+    {
+      "title": "freeCodeCamp \u2014 BigQuery Full Course",
+      "url": "https://www.youtube.com/watch?v=eyBK9nj-7AA",
+      "platform": "youtube",
+      "freshness_score": 0.8,
+      "engagement_score": 0.85,
+      "duration_hours": 2,
+      "style": "video"
+    },
+    {
+      "title": "BigQuery SQL Reference",
+      "url": "https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax",
+      "platform": "docs",
+      "freshness_score": 0.95,
+      "engagement_score": 0.8,
+      "duration_hours": 10,
+      "style": "reading"
+    }
+  ],
+  "Deep Learning": [
+    {
+      "title": "Andrew Ng \u2014 Deep Learning Specialization (Coursera)",
+      "url": "https://www.coursera.org/specializations/deep-learning",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 80,
+      "style": "video"
+    },
+    {
+      "title": "Andrej Karpathy \u2014 Neural Networks: Zero to Hero",
+      "url": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+      "platform": "youtube",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 15,
+      "style": "video"
+    },
+    {
+      "title": "Dive into Deep Learning (free book)",
+      "url": "https://d2l.ai/",
+      "platform": "book",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 100,
+      "style": "reading"
+    }
+  ],
+  "MLOps": [
+    {
+      "title": "Made With ML \u2014 MLOps Course",
+      "url": "https://madewithml.com/#mlops",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "interactive"
+    },
+    {
+      "title": "Full Stack Deep Learning",
+      "url": "https://fullstackdeeplearning.com/",
+      "platform": "course",
+      "freshness_score": 0.85,
+      "engagement_score": 0.85,
+      "duration_hours": 30,
+      "style": "video"
+    },
+    {
+      "title": "MLOps Specialization by DeepLearning.AI (Coursera)",
+      "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 80,
+      "style": "video"
+    }
+  ],
+  "Computer Vision": [
+    {
+      "title": "Stanford CS231n \u2014 CNNs for Visual Recognition",
+      "url": "http://cs231n.stanford.edu/",
+      "platform": "course",
+      "freshness_score": 0.85,
+      "engagement_score": 0.95,
+      "duration_hours": 80,
+      "style": "reading"
+    },
+    {
+      "title": "OpenCV \u2014 Official Tutorials",
+      "url": "https://docs.opencv.org/4.x/d9/df8/tutorial_root.html",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 30,
+      "style": "interactive"
+    },
+    {
+      "title": "fast.ai \u2014 Practical Deep Learning (lesson 6: CV)",
+      "url": "https://course.fast.ai/Lessons/lesson6.html",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 10,
+      "style": "video"
+    }
+  ],
+  "Time Series Analysis": [
+    {
+      "title": "Forecasting: Principles and Practice (free book)",
+      "url": "https://otexts.com/fpp3/",
+      "platform": "book",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 40,
+      "style": "reading"
+    },
+    {
+      "title": "Kaggle \u2014 Time Series mini-course",
+      "url": "https://www.kaggle.com/learn/time-series",
+      "platform": "course",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 5,
+      "style": "interactive"
+    },
+    {
+      "title": "Ritvikmath \u2014 Time Series Analysis (YouTube)",
+      "url": "https://www.youtube.com/@ritvikmath",
+      "platform": "youtube",
+      "freshness_score": 0.85,
+      "engagement_score": 0.85,
+      "duration_hours": 8,
+      "style": "video"
+    }
+  ],
+  "Databricks": [
+    {
+      "title": "Databricks Academy \u2014 free courses",
+      "url": "https://www.databricks.com/learn/training",
+      "platform": "course",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 20,
+      "style": "video"
+    },
+    {
+      "title": "Databricks Documentation",
+      "url": "https://docs.databricks.com/",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.8,
+      "duration_hours": 15,
+      "style": "reading"
+    },
+    {
+      "title": "Databricks Quickstart tutorials",
+      "url": "https://docs.databricks.com/en/getting-started/index.html",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.8,
+      "duration_hours": 8,
+      "style": "interactive"
+    }
+  ],
+  "Scala": [
+    {
+      "title": "Scala Official \u2014 Getting Started",
+      "url": "https://docs.scala-lang.org/getting-started/",
+      "platform": "docs",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 15,
+      "style": "reading"
+    },
+    {
+      "title": "Coursera \u2014 Functional Programming in Scala (Odersky)",
+      "url": "https://www.coursera.org/specializations/scala",
+      "platform": "course",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 80,
+      "style": "video"
+    },
+    {
+      "title": "Rock the JVM \u2014 Scala tutorials (YouTube)",
+      "url": "https://www.youtube.com/@rockthejvm",
+      "platform": "youtube",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 20,
+      "style": "video"
+    }
+  ],
+  "Generative AI": [
+    {
+      "title": "DeepLearning.AI \u2014 Generative AI with LLMs (Coursera)",
+      "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 16
+    },
+    {
+      "title": "Hugging Face NLP Course (Transformers + Generation)",
+      "url": "https://huggingface.co/learn/nlp-course",
+      "platform": "course",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 30
+    },
+    {
+      "title": "Andrej Karpathy \u2014 Intro to Large Language Models",
+      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "platform": "youtube",
+      "style": "video",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 1
+    },
+    {
+      "title": "Andrej Karpathy \u2014 Let's build GPT from scratch",
+      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "platform": "youtube",
+      "style": "video",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 2
+    }
+  ],
+  "AI Agents": [
+    {
+      "title": "DeepLearning.AI \u2014 AI Agents in LangGraph",
+      "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 5
+    },
+    {
+      "title": "Anthropic \u2014 Building effective agents",
+      "url": "https://www.anthropic.com/research/building-effective-agents",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 2
+    },
+    {
+      "title": "LangChain Academy \u2014 Introduction to LangGraph",
+      "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    },
+    {
+      "title": "OpenAI \u2014 Agents SDK docs",
+      "url": "https://platform.openai.com/docs/guides/agents",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 6
+    }
+  ],
+  "Evaluation": [
+    {
+      "title": "DeepLearning.AI \u2014 Evaluating and Debugging Generative AI",
+      "url": "https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 3
+    },
+    {
+      "title": "Hamel Husain \u2014 A field guide to rapidly improving AI products",
+      "url": "https://hamel.dev/blog/posts/evals/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.95,
+      "duration_hours": 2
+    },
+    {
+      "title": "OpenAI Evals (hands-on framework)",
+      "url": "https://github.com/openai/evals",
+      "platform": "interactive",
+      "style": "interactive",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    },
+    {
+      "title": "Eugene Yan \u2014 Evals 101 (blog)",
+      "url": "https://eugeneyan.com/writing/abstractive/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 2
+    }
+  ],
+  "Prompt Engineering": [
+    {
+      "title": "DeepLearning.AI \u2014 ChatGPT Prompt Engineering for Developers (free)",
+      "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.95,
+      "duration_hours": 2
+    },
+    {
+      "title": "Anthropic \u2014 Prompt engineering guide",
+      "url": "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 3
+    },
+    {
+      "title": "OpenAI Cookbook \u2014 Prompt engineering",
+      "url": "https://cookbook.openai.com/articles/related_resources",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 3
+    }
+  ],
+  "RAG": [
+    {
+      "title": "LangChain \u2014 RAG tutorial",
+      "url": "https://python.langchain.com/docs/tutorials/rag/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 5
+    },
+    {
+      "title": "DeepLearning.AI \u2014 LangChain: Chat with Your Data",
+      "url": "https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 2
+    },
+    {
+      "title": "Pinecone \u2014 Learn (vector search + RAG)",
+      "url": "https://www.pinecone.io/learn/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    }
+  ],
+  "LangChain": [
+    {
+      "title": "LangChain official tutorials",
+      "url": "https://python.langchain.com/docs/tutorials/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 8
+    },
+    {
+      "title": "DeepLearning.AI \u2014 LangChain for LLM Application Development",
+      "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 2
+    },
+    {
+      "title": "LangChain Academy",
+      "url": "https://academy.langchain.com",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 20
+    }
+  ],
+  "Fine-Tuning": [
+    {
+      "title": "Hugging Face \u2014 Fine-tuning course",
+      "url": "https://huggingface.co/learn/nlp-course/chapter3",
+      "platform": "course",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 5
+    },
+    {
+      "title": "DeepLearning.AI \u2014 Finetuning Large Language Models",
+      "url": "https://www.deeplearning.ai/short-courses/finetuning-large-language-models/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 2
+    },
+    {
+      "title": "Sebastian Raschka \u2014 Practical Tips for Finetuning LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 3
+    }
+  ],
+  "LoRA": [
+    {
+      "title": "Hugging Face PEFT docs (LoRA + adapter-based tuning)",
+      "url": "https://huggingface.co/docs/peft",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 5
+    },
+    {
+      "title": "Lightning AI \u2014 LoRA from scratch",
+      "url": "https://lightning.ai/pages/community/tutorial/lora-llm/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 2
+    }
+  ],
+  "Data Pipelines": [
+    {
+      "title": "Airflow Official Tutorial",
+      "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 10
+    },
+    {
+      "title": "Dagster University (free)",
+      "url": "https://courses.dagster.io/",
+      "platform": "course",
+      "style": "interactive",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    },
+    {
+      "title": "Designing Data-Intensive Applications (Kleppmann) \u2014 companion site",
+      "url": "https://dataintensive.net",
+      "platform": "book",
+      "style": "book",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 20
+    }
+  ],
+  "Model Deployment": [
+    {
+      "title": "Full Stack Deep Learning",
+      "url": "https://fullstackdeeplearning.com",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.9,
+      "engagement_score": 0.95,
+      "duration_hours": 30
+    },
+    {
+      "title": "Chip Huyen \u2014 ML Systems Design (free book resources)",
+      "url": "https://huyenchip.com/ml-interviews-book/",
+      "platform": "book",
+      "style": "reading",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 15
+    },
+    {
+      "title": "FastAPI Tutorial (production-grade APIs for ML)",
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 8
+    }
+  ],
+  "Observability": [
+    {
+      "title": "OpenTelemetry Documentation",
+      "url": "https://opentelemetry.io/docs/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 8
+    },
+    {
+      "title": "Grafana Fundamentals (free interactive tutorial)",
+      "url": "https://grafana.com/tutorials/grafana-fundamentals/",
+      "platform": "interactive",
+      "style": "interactive",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 4
+    },
+    {
+      "title": "Honeycomb \u2014 Observability Engineering (free O'Reilly book)",
+      "url": "https://www.honeycomb.io/oreilly-observability-engineering",
+      "platform": "book",
+      "style": "reading",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    }
+  ],
+  "Vector Databases": [
+    {
+      "title": "Pinecone \u2014 Vector Database Overview",
+      "url": "https://www.pinecone.io/learn/vector-database/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.85,
+      "duration_hours": 5
+    },
+    {
+      "title": "Weaviate \u2014 What is a Vector Database",
+      "url": "https://weaviate.io/blog/what-is-a-vector-database",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.8,
+      "duration_hours": 2
+    },
+    {
+      "title": "Chroma Getting Started",
+      "url": "https://docs.trychroma.com/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 5
+    }
+  ],
+  "Reinforcement Learning": [
+    {
+      "title": "David Silver \u2014 Reinforcement Learning lectures (DeepMind/UCL)",
+      "url": "https://www.davidsilver.uk/teaching/",
+      "platform": "youtube",
+      "style": "video",
+      "freshness_score": 0.85,
+      "engagement_score": 0.95,
+      "duration_hours": 20
+    },
+    {
+      "title": "Hugging Face \u2014 Deep Reinforcement Learning Course",
+      "url": "https://huggingface.co/learn/deep-rl-course",
+      "platform": "course",
+      "style": "interactive",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 30
+    },
+    {
+      "title": "OpenAI \u2014 Spinning Up in Deep RL",
+      "url": "https://spinningup.openai.com/en/latest/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 20
+    }
+  ],
+  "Azure": [
+    {
+      "title": "Microsoft Learn \u2014 Azure Fundamentals (AZ-900)",
+      "url": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/",
+      "platform": "course",
+      "style": "interactive",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 15
+    },
+    {
+      "title": "freeCodeCamp \u2014 Azure Full Course",
+      "url": "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
+      "platform": "youtube",
+      "style": "video",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 3
+    },
+    {
+      "title": "Azure Machine Learning documentation",
+      "url": "https://learn.microsoft.com/en-us/azure/machine-learning/",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    }
+  ],
+  "Recommender Systems": [
+    {
+      "title": "Google ML Crash Course \u2014 Recommendation Systems",
+      "url": "https://developers.google.com/machine-learning/recommendation",
+      "platform": "course",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 4
+    },
+    {
+      "title": "Microsoft Recommenders library (examples + notebooks)",
+      "url": "https://github.com/recommenders-team/recommenders",
+      "platform": "interactive",
+      "style": "interactive",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 20
+    },
+    {
+      "title": "Coursera \u2014 Recommender Systems Specialization (Univ. of Minnesota)",
+      "url": "https://www.coursera.org/specializations/recommender-systems",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.85,
+      "engagement_score": 0.9,
+      "duration_hours": 40
+    }
+  ],
+  "Ranking": [
+    {
+      "title": "Google \u2014 Learning to Rank (ML Crash Course companion)",
+      "url": "https://developers.google.com/machine-learning/recommendation/dnn/scoring",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.9,
+      "engagement_score": 0.85,
+      "duration_hours": 2
+    },
+    {
+      "title": "Eugene Yan \u2014 Real-World Recommendation Systems",
+      "url": "https://eugeneyan.com/writing/system-design-for-discovery/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 3
+    }
+  ],
+  "Search": [
+    {
+      "title": "Elastic \u2014 Relevance Tuning Guide",
+      "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.8,
+      "duration_hours": 10
+    },
+    {
+      "title": "Haystack tutorials (open-source search + retrieval)",
+      "url": "https://haystack.deepset.ai/tutorials",
+      "platform": "docs",
+      "style": "interactive",
+      "freshness_score": 1.0,
+      "engagement_score": 0.85,
+      "duration_hours": 10
+    }
+  ],
+  "Distributed Systems": [
+    {
+      "title": "MIT 6.824 Distributed Systems (free lectures + labs)",
+      "url": "https://pdos.csail.mit.edu/6.824/",
+      "platform": "course",
+      "style": "video",
+      "freshness_score": 0.85,
+      "engagement_score": 0.95,
+      "duration_hours": 40
+    },
+    {
+      "title": "Martin Kleppmann \u2014 Distributed Systems lecture series",
+      "url": "https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+      "platform": "youtube",
+      "style": "video",
+      "freshness_score": 0.9,
+      "engagement_score": 0.9,
+      "duration_hours": 15
+    }
+  ],
+  "Model Training": [
+    {
+      "title": "PyTorch \u2014 Official training tutorials",
+      "url": "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 6
+    },
+    {
+      "title": "Hugging Face \u2014 Trainer API documentation",
+      "url": "https://huggingface.co/docs/transformers/main/en/training",
+      "platform": "docs",
+      "style": "reading",
+      "freshness_score": 1.0,
+      "engagement_score": 0.9,
+      "duration_hours": 4
+    }
+  ],
+  "Personalization": [
+    {
+      "title": "Eugene Yan \u2014 Personalization writing collection",
+      "url": "https://eugeneyan.com/tag/recsys/",
+      "platform": "article",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 5
+    },
+    {
+      "title": "Google ML Crash Course \u2014 Recommendation Systems",
+      "url": "https://developers.google.com/machine-learning/recommendation",
+      "platform": "course",
+      "style": "reading",
+      "freshness_score": 0.95,
+      "engagement_score": 0.9,
+      "duration_hours": 4
+    }
+  ]
+}
