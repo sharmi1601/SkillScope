@@ -23,6 +23,7 @@ from typing import Any
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+import os
 
 from .gap_scorer import (
     load_skill_hours,
@@ -33,7 +34,10 @@ from .gap_scorer import (
 from .recommender import recommend_for_report
 from .resume_parser import parse_resume
 from .scheduler import generate_plan
+from dotenv import load_dotenv
+load_dotenv()
 
+api_key = os.getenv("GEMINI_API_KEY")
 
 app = FastAPI(title="SkillScope API", version="0.1.0")
 
