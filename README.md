@@ -6,7 +6,7 @@ SkillScope scrapes live Greenhouse job listings for four target roles, extracts 
 
 ## Target roles
 
-Data Analyst · Data Engineer · Data Scientist · ML Engineer
+Data Analyst · Data Engineer · Data Scientist · ML Engineer.
 
 ## How it works
 
