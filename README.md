@@ -1,3 +1,12 @@
+---
+title: Skillscope Backend
+emoji: 👁
+colorFrom: gray
+colorTo: yellow
+sdk: docker
+pinned: false
+---
+
 # SkillScope
 
 Turn your resume into a 12-week learning plan grounded in real job postings.
