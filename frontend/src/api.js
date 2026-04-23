@@ -1,7 +1,7 @@
 // Tiny fetch helpers around the FastAPI backend. All requests go through
 // the Vite dev proxy (vite.config.js) so there's no CORS fiddling in dev.
 
-const BASE = "/api";
+const BASE = `${import.meta.env.VITE_API_URL || ""}/api`;
 
 async function handle(res) {
   if (!res.ok) {
